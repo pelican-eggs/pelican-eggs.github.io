@@ -1,0 +1,2462 @@
+{
+	"panel_type": "Pelican",
+	"nests": [
+		{
+			"nest_type": "Chatbot",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Aoede",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-aoede.json"
+				},
+				{
+					"egg": {
+						"name": "ATLBot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-a-t-l-bot.json"
+				},
+				{
+					"egg": {
+						"name": "Bastion",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-bastion.json"
+				},
+				{
+					"egg": {
+						"name": "CorpBot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-corp-bot.json"
+				},
+				{
+					"egg": {
+						"name": "Dynamica",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-dynamica.json"
+				},
+				{
+					"egg": {
+						"name": "fragbot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-fragbot.json"
+				},
+				{
+					"egg": {
+						"name": "Game Server Watcher",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-game-server-watcher.json"
+				},
+				{
+					"egg": {
+						"name": "JMusicBot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-j-music-bot.json"
+				},
+				{
+					"egg": {
+						"name": "Muse",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-muse.json"
+				},
+				{
+					"egg": {
+						"name": "parkertron",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-parkertron.json"
+				},
+				{
+					"egg": {
+						"name": "pixel-bot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pixel-bot.json"
+				},
+				{
+					"egg": {
+						"name": "Red",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-red.json"
+				},
+				{
+					"egg": {
+						"name": "Ree6",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-ree6.json"
+				},
+				{
+					"egg": {
+						"name": "Sinusbot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-sinusbot.json"
+				},
+				{
+					"egg": {
+						"name": "Big Brother Bot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-big-brother-bot.json"
+				},
+				{
+					"egg": {
+						"name": "JTS3ServerMod",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json"
+				},
+				{
+					"egg": {
+						"name": "PhantomBot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-phantom-bot.json"
+				},
+				{
+					"egg": {
+						"name": "SogeBot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-soge-bot.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Database",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "MongoDB",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/nosql/mongodb/egg-mongo-d-b.json"
+				},
+				{
+					"egg": {
+						"name": "MongoDB 6",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/nosql/mongodb/egg-mongo-d-b6.json"
+				},
+				{
+					"egg": {
+						"name": "MongoDB 7",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/nosql/mongodb/egg-mongo-d-b7.json"
+				},
+				{
+					"egg": {
+						"name": "rethinkdb",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/nosql/rethinkdb/egg-rethinkdb.json"
+				},
+				{
+					"egg": {
+						"name": "Redis",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/redis/redis-5/egg-redis-5.json"
+				},
+				{
+					"egg": {
+						"name": "Redis-6",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/redis/redis-6/egg-redis-6.json"
+				},
+				{
+					"egg": {
+						"name": "Redis-7",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/redis/redis-7/egg-redis-7.json"
+				},
+				{
+					"egg": {
+						"name": "MariaDB 10.3",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/mariadb/egg-maria-d-b10-3.json"
+				},
+				{
+					"egg": {
+						"name": "Postgres 14",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/postgres/egg-postgres14.json"
+				},
+				{
+					"egg": {
+						"name": "Postgres 16",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/postgres/egg-postgres16.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Standalone",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "SuperTuxKart",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-super-tux-kart.json"
+				},
+				{
+					"egg": {
+						"name": "BetterCrewlink Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-better-crewlink-server.json"
+				},
+				{
+					"egg": {
+						"name": "Crewlink server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-crewlink-server.json"
+				},
+				{
+					"egg": {
+						"name": "Among Us - Impostor Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-among-us--impostor-server.json"
+				},
+				{
+					"egg": {
+						"name": "Archean",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-archean.json"
+				},
+				{
+					"egg": {
+						"name": "BeamMP Servers",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-beam-m-p-servers.json"
+				},
+				{
+					"egg": {
+						"name": "KissMP Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-kiss-m-p-server.json"
+				},
+				{
+					"egg": {
+						"name": "ClassiCube(MGC)",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-classi-cube--m-g-c.json"
+				},
+				{
+					"egg": {
+						"name": "Clone Hero",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-clone-hero.json"
+				},
+				{
+					"egg": {
+						"name": "CS2D",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-c-s2-d.json"
+				},
+				{
+					"egg": {
+						"name": "AssaultCube",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-assault-cube.json"
+				},
+				{
+					"egg": {
+						"name": "Cube 2: Sauerbraten",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-cube2--sauerbraten.json"
+				},
+				{
+					"egg": {
+						"name": "DDRaceNetwork",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-d-d-race-network.json"
+				},
+				{
+					"egg": {
+						"name": "Zandronum",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-zandronum.json"
+				},
+				{
+					"egg": {
+						"name": "Stay In Tarkov",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-stay-in-tarkov.json"
+				},
+				{
+					"egg": {
+						"name": "Clusterio",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-clusterio.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio ARM64",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio-a-r-m64.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio.json"
+				},
+				{
+					"egg": {
+						"name": "Factorio-ModUpdate",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-factorio--mod-update.json"
+				},
+				{
+					"egg": {
+						"name": "Foundry VTT",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-foundry-v-t-t.json"
+				},
+				{
+					"egg": {
+						"name": "Tachyon",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-tachyon.json"
+				},
+				{
+					"egg": {
+						"name": "alt:V",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-alt--v.json"
+				},
+				{
+					"egg": {
+						"name": "FiveM",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-five-m.json"
+				},
+				{
+					"egg": {
+						"name": "Grand Theft Auto Connected",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-grand-theft-auto-connected.json"
+				},
+				{
+					"egg": {
+						"name": "Multi Theft Auto",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-multi-theft-auto.json"
+				},
+				{
+					"egg": {
+						"name": "OpenMP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-open-m-p.json"
+				},
+				{
+					"egg": {
+						"name": "RageCOOP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-rage-c-o-o-p.json"
+				},
+				{
+					"egg": {
+						"name": "Rage.MP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-rage--m-p.json"
+				},
+				{
+					"egg": {
+						"name": "SA-MP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-s-a--m-p.json"
+				},
+				{
+					"egg": {
+						"name": "Hogwarp",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-hogwarp.json"
+				},
+				{
+					"egg": {
+						"name": "KSP DMP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-k-s-p-d-m-p.json"
+				},
+				{
+					"egg": {
+						"name": "LeagueSandbox",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-league-sandbox.json"
+				},
+				{
+					"egg": {
+						"name": "LAC-Online Public Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-l-a-c--online-public-server.json"
+				},
+				{
+					"egg": {
+						"name": "Mindustry",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-mindustry.json"
+				},
+				{
+					"egg": {
+						"name": "Minetest",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-minetest.json"
+				},
+				{
+					"egg": {
+						"name": "mohaa",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-mohaa.json"
+				},
+				{
+					"egg": {
+						"name": "Nazi Zombies: Portable",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-nazi-zombies-portable.json"
+				},
+				{
+					"egg": {
+						"name": "Neverwinter Nights: Enhanced Edition",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json"
+				},
+				{
+					"egg": {
+						"name": "OpenArena",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-open-arena.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA - Dune2000",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-open-r-a--dune2000.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-open-r-a.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRA - Tiberian Dawn",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json"
+				},
+				{
+					"egg": {
+						"name": "OpenRCT2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-open-r-c-t2.json"
+				},
+				{
+					"egg": {
+						"name": "OpenTTD",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-open-t-t-d-server.json"
+				},
+				{
+					"egg": {
+						"name": "Path Of Titans",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-path-of-titans.json"
+				},
+				{
+					"egg": {
+						"name": "RedM",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-red-m.json"
+				},
+				{
+					"egg": {
+						"name": "Rimworld: Open World",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-rimworld--open-world.json"
+				},
+				{
+					"egg": {
+						"name": "Rimworld Together",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-rimworld-together.json"
+				},
+				{
+					"egg": {
+						"name": "Spacestation 14",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-spacestation14.json"
+				},
+				{
+					"egg": {
+						"name": "starmade",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-starmade.json"
+				},
+				{
+					"egg": {
+						"name": "Teeworlds",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-teeworlds.json"
+				},
+				{
+					"egg": {
+						"name": "tModloader",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-t-modloader.json"
+				},
+				{
+					"egg": {
+						"name": "tshock legacy",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "tshock",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-tshock.json"
+				},
+				{
+					"egg": {
+						"name": "Terraria Vanilla",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-terraria-vanilla.json"
+				},
+				{
+					"egg": {
+						"name": "The Battle for Wesnoth",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-the-battle-for-wesnoth.json"
+				},
+				{
+					"egg": {
+						"name": "Urban Terror",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-urban-terror.json"
+				},
+				{
+					"egg": {
+						"name": "Veloren",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-veloren.json"
+				},
+				{
+					"egg": {
+						"name": "Vintage Story",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-vintage-story.json"
+				},
+				{
+					"egg": {
+						"name": "Wine Generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-wine-generic.json"
+				},
+				{
+					"egg": {
+						"name": "ET Legacy",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-e-t-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Xonotic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-xonotic.json"
+				}
+			]
+		},
+		{
+			"nest_type": "SteamCMD",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "7 Days To Die",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/7_days_to_die/egg-7-days-to-die.json"
+				},
+				{
+					"egg": {
+						"name": "Abiotic Factor",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-abiotic-factor.json"
+				},
+				{
+					"egg": {
+						"name": "ARK: Survival Ascended",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json"
+				},
+				{
+					"egg": {
+						"name": "Ark: Survival Evolved",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_evolved/egg-ark--survival-evolved.json"
+				},
+				{
+					"egg": {
+						"name": "Arma 3",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma3/egg-arma3.json"
+				},
+				{
+					"egg": {
+						"name": "Arma Reforger",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-arma-reforger.json"
+				},
+				{
+					"egg": {
+						"name": "Assetto Corsa (Freeroam + AI)",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-assetto-corsa--freeroam--a-i.json"
+				},
+				{
+					"egg": {
+						"name": "Assetto Corsa",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-assetto-corsa.json"
+				},
+				{
+					"egg": {
+						"name": "Astro Colony [wine]",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-astro-colony-wine.json"
+				},
+				{
+					"egg": {
+						"name": "Astro Colony",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-astro-colony.json"
+				},
+				{
+					"egg": {
+						"name": "Astroneer Dedicated Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-astroneer-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Avorion",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-avorion.json"
+				},
+				{
+					"egg": {
+						"name": "Barotrauma",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/barotrauma/egg-barotrauma.json"
+				},
+				{
+					"egg": {
+						"name": "BATTALION: Legacy",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/battalion_legacy/egg-b-a-t-t-a-l-i-o-n--legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Black Mesa",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/black_mesa/egg-black-mesa.json"
+				},
+				{
+					"egg": {
+						"name": "Citadel: Forged with Fire",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/citadel/egg-citadel--forged-with-fire.json"
+				},
+				{
+					"egg": {
+						"name": "Colony Survival",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/colony_survival/egg-colony-survival.json"
+				},
+				{
+					"egg": {
+						"name": "Conan Exiles",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-conan-exiles.json"
+				},
+				{
+					"egg": {
+						"name": "Core Keeper",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/core_keeper/egg-core-keeper.json"
+				},
+				{
+					"egg": {
+						"name": "Counter-Strike 2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.json"
+				},
+				{
+					"egg": {
+						"name": "Counter-Strike: Source",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.json"
+				},
+				{
+					"egg": {
+						"name": "Craftopia",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-craftopia.json"
+				},
+				{
+					"egg": {
+						"name": "CryoFall",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cryofall/egg-cryo-fall.json"
+				},
+				{
+					"egg": {
+						"name": "DayZ",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dayz/egg-day-z.json"
+				},
+				{
+					"egg": {
+						"name": "DDNet",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ddnet/egg-d-d-net.json"
+				},
+				{
+					"egg": {
+						"name": "Dead Matter",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dead_matter/egg-dead-matter.json"
+				},
+				{
+					"egg": {
+						"name": "Don't Starve Together",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dont_starve/egg-don-t-starve-together.json"
+				},
+				{
+					"egg": {
+						"name": "Eco",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/eco/egg-eco.json"
+				},
+				{
+					"egg": {
+						"name": "Empyrion: Galactic Survival",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/empyrion/egg-empyrion--galactic-survival.json"
+				},
+				{
+					"egg": {
+						"name": "Enshrouded",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-enshrouded.json"
+				},
+				{
+					"egg": {
+						"name": "Fof",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/fof/egg-fof.json"
+				},
+				{
+					"egg": {
+						"name": "Foundry",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/foundry/egg-foundry.json"
+				},
+				{
+					"egg": {
+						"name": "Frozen Flame",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/frozen_flame/egg-frozen-flame.json"
+				},
+				{
+					"egg": {
+						"name": "Garry's Mod - Reworked",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-garry-s-mod--reworked.json"
+				},
+				{
+					"egg": {
+						"name": "Ground Branch",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ground_branch/egg-ground-branch.json"
+				},
+				{
+					"egg": {
+						"name": "Custom ReHLDS Engine Game",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/rehlds/egg-custom-re-h-l-d-s-engine-game.json"
+				},
+				{
+					"egg": {
+						"name": "Custom HLDS Engine Game",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/vanilla/egg-custom-h-l-d-s-engine-game.json"
+				},
+				{
+					"egg": {
+						"name": "Holdfast NaW",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/holdfast/egg-holdfast-na-w.json"
+				},
+				{
+					"egg": {
+						"name": "HumanitZ",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/humanitz/egg-humanit-z.json"
+				},
+				{
+					"egg": {
+						"name": "Hurtworld",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hurtworld/egg-hurtworld.json"
+				},
+				{
+					"egg": {
+						"name": "Icarus-Dedicated",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/egg-icarus--dedicated.json"
+				},
+				{
+					"egg": {
+						"name": "Insurgency: Sandstorm",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency_sandstorm/egg-insurgency--sandstorm.json"
+				},
+				{
+					"egg": {
+						"name": "Iosoccer server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/iosoccer/egg-iosoccer-server.json"
+				},
+				{
+					"egg": {
+						"name": "Killing Floor 2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/killing_floor_2/egg-killing-floor2.json"
+				},
+				{
+					"egg": {
+						"name": "Left 4 Dead",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-left4-dead.json"
+				},
+				{
+					"egg": {
+						"name": "Left 4 Dead 2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-left4-dead2.json"
+				},
+				{
+					"egg": {
+						"name": "Longvinter",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-longvinter.json"
+				},
+				{
+					"egg": {
+						"name": "Midnight Ghost Hunt",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json"
+				},
+				{
+					"egg": {
+						"name": "Modiverse",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-modiverse.json"
+				},
+				{
+					"egg": {
+						"name": "Mordhau Wine",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-mordhau-wine.json"
+				},
+				{
+					"egg": {
+						"name": "Mordhau",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-mordhau.json"
+				},
+				{
+					"egg": {
+						"name": "Mount \u0026 Blade II: Bannerlord",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mount_blade_II_bannerlord/egg-mount--blade-i-i--bannerlord.json"
+				},
+				{
+					"egg": {
+						"name": "Myth of Empires",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/myth_of_empires/egg-myth-of-empires.json"
+				},
+				{
+					"egg": {
+						"name": "Necesse",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/necesse/egg-necesse.json"
+				},
+				{
+					"egg": {
+						"name": "NeosVR",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/neosvr/egg-neos-v-r.json"
+				},
+				{
+					"egg": {
+						"name": "Night Of The Dead",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/night_of_the_dead/egg-night-of-the-dead.json"
+				},
+				{
+					"egg": {
+						"name": "nmrih",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nmrih/egg-nmrih.json"
+				},
+				{
+					"egg": {
+						"name": "No Love Lost",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-no-love-lost.json"
+				},
+				{
+					"egg": {
+						"name": "No One Survived",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_one_survived/egg-no-one-survived.json"
+				},
+				{
+					"egg": {
+						"name": "Nova-Life: Amboise",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/novalife_amboise/egg-nova--life--amboise.json"
+				},
+				{
+					"egg": {
+						"name": "Onset",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/onset/egg-onset.json"
+				},
+				{
+					"egg": {
+						"name": "Open Fortress",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/open_fortress/egg-open-fortress.json"
+				},
+				{
+					"egg": {
+						"name": "Operation Harsh Doorstop",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/operation_harsh_doorstop/egg-operation-harsh-doorstop.json"
+				},
+				{
+					"egg": {
+						"name": "Palworld Proton",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-palworld-proton.json"
+				},
+				{
+					"egg": {
+						"name": "Palworld",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-palworld.json"
+				},
+				{
+					"egg": {
+						"name": "Pavlov VR",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pavlov_vr/egg-pavlov-v-r.json"
+				},
+				{
+					"egg": {
+						"name": "PixARK",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pix-a-r-k.json"
+				},
+				{
+					"egg": {
+						"name": "Portal Knights",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-portal-knights.json"
+				},
+				{
+					"egg": {
+						"name": "Post Scriptum",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-post-scriptum.json"
+				},
+				{
+					"egg": {
+						"name": "Project Zomboid",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-project-zomboid.json"
+				},
+				{
+					"egg": {
+						"name": "Quake Live",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-quake-live.json"
+				},
+				{
+					"egg": {
+						"name": "Resonite",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-resonite.json"
+				},
+				{
+					"egg": {
+						"name": "Rising World Java Legacy",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-rising-world-java-legacy.json"
+				},
+				{
+					"egg": {
+						"name": "Rising World Unity",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/unity/egg-rising-world-unity.json"
+				},
+				{
+					"egg": {
+						"name": "Risk of Rain 2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/risk_of_rain_2/egg-risk-of-rain2.json"
+				},
+				{
+					"egg": {
+						"name": "Rust Autowipe",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_autowipe/egg-rust-autowipe.json"
+				},
+				{
+					"egg": {
+						"name": "Rust Staging",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-rust-staging.json"
+				},
+				{
+					"egg": {
+						"name": "Satisfactory",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/satisfactory/egg-satisfactory.json"
+				},
+				{
+					"egg": {
+						"name": "SCP:SL",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/dedicated/egg-s-c-p--s-l.json"
+				},
+				{
+					"egg": {
+						"name": "SCP:SL - Exiled",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-s-c-p--s-l--exiled.json"
+				},
+				{
+					"egg": {
+						"name": "Smalland: Survive the Wilds",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json"
+				},
+				{
+					"egg": {
+						"name": "Solace Crafting",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/solace_crafting/egg-solace-crafting.json"
+				},
+				{
+					"egg": {
+						"name": "Soldat",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soldat/egg-soldat.json"
+				},
+				{
+					"egg": {
+						"name": "Sons Of The Forest",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sonsoftheforest/egg-sons-of-the-forest.json"
+				},
+				{
+					"egg": {
+						"name": "Soulmask",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-soulmask.json"
+				},
+				{
+					"egg": {
+						"name": "SourceCoop",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sourcecoop/egg-source-coop.json"
+				},
+				{
+					"egg": {
+						"name": "Space Engineers",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/default/egg-space-engineers.json"
+				},
+				{
+					"egg": {
+						"name": "Space Engineers - Torch Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-space-engineers--torch-server.json"
+				},
+				{
+					"egg": {
+						"name": "Squad",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-squad.json"
+				},
+				{
+					"egg": {
+						"name": "Starbound",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/starbound/egg-starbound.json"
+				},
+				{
+					"egg": {
+						"name": "Stationeers (BepInEx)",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_bepinex/egg-stationeers--bep-in-ex.json"
+				},
+				{
+					"egg": {
+						"name": "Stationeers",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_vanilla/egg-stationeers.json"
+				},
+				{
+					"egg": {
+						"name": "Stormworks: Build and Rescue",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stormworks/egg-stormworks--build-and-rescue.json"
+				},
+				{
+					"egg": {
+						"name": "Subnautica",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-subnautica.json"
+				},
+				{
+					"egg": {
+						"name": "Sven Co-op",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/svencoop/egg-sven-co-op.json"
+				},
+				{
+					"egg": {
+						"name": "Swords 'n Magic and Stuff",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json"
+				},
+				{
+					"egg": {
+						"name": "Team Fortress 2 Classic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2_classic/egg-team-fortress2-classic.json"
+				},
+				{
+					"egg": {
+						"name": "TerraTech Worlds",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/terratech_worlds/egg-terra-tech-worlds.json"
+				},
+				{
+					"egg": {
+						"name": "The Forest",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_forest/egg-the-forest.json"
+				},
+				{
+					"egg": {
+						"name": "The Isle",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-the-isle.json"
+				},
+				{
+					"egg": {
+						"name": "The Front",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/thefront/egg-the-front.json"
+				},
+				{
+					"egg": {
+						"name": "Tower Unite",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/tower_unite/egg-tower-unite.json"
+				},
+				{
+					"egg": {
+						"name": "American Truck Simulator Dedicated Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/american-truck-simulator/egg-american-truck-simulator-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Euro Truck Simulator 2 Dedicated server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/euro-truck-simulator2/egg-euro-truck-simulator2-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "Unturned",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/unturned/egg-unturned.json"
+				},
+				{
+					"egg": {
+						"name": "V Rising BepInEx",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_bepinex/egg-v-rising-bep-in-ex.json"
+				},
+				{
+					"egg": {
+						"name": "V Rising",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_vanilla/egg-v-rising.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim  BepINex",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-valheim-bep-i-nex.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim Plus Mod",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_plus/egg-valheim-plus-mod.json"
+				},
+				{
+					"egg": {
+						"name": "Valheim",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-valheim.json"
+				},
+				{
+					"egg": {
+						"name": "VEIN",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-v-e-i-n.json"
+				},
+				{
+					"egg": {
+						"name": "Wurm Unlimited",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-wurm-unlimited.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Generic Language",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Bun",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-bun.json"
+				},
+				{
+					"egg": {
+						"name": "Generic C#",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-generic-c.json"
+				},
+				{
+					"egg": {
+						"name": "dart generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-dart-generic.json"
+				},
+				{
+					"egg": {
+						"name": "Deno Generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-deno-generic.json"
+				},
+				{
+					"egg": {
+						"name": "Elixir",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-elixir.json"
+				},
+				{
+					"egg": {
+						"name": "golang generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-golang-generic.json"
+				},
+				{
+					"egg": {
+						"name": "Generic Java",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-generic-java.json"
+				},
+				{
+					"egg": {
+						"name": "luvit generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-luvit-generic.json"
+				},
+				{
+					"egg": {
+						"name": "node.js generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/egg-node-js-generic.json"
+				},
+				{
+					"egg": {
+						"name": "nodemon",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-nodemon.json"
+				},
+				{
+					"egg": {
+						"name": "python generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-python-generic.json"
+				},
+				{
+					"egg": {
+						"name": "rust generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-rust-generic.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Minecraft",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Liteloader Bedrock Dedicated Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json"
+				},
+				{
+					"egg": {
+						"name": "PowerNukkitX",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/PowerNukkitX/egg-power-nukkit-x.json"
+				},
+				{
+					"egg": {
+						"name": "Vanilla Bedrock ARM64",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-vanilla-bedrock-a-r-m64.json"
+				},
+				{
+					"egg": {
+						"name": "Vanilla Bedrock",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-vanilla-bedrock.json"
+				},
+				{
+					"egg": {
+						"name": "GoMint",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/gomint/egg-go-mint.json"
+				},
+				{
+					"egg": {
+						"name": "Nukkit",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/nukkit/egg-nukkit.json"
+				},
+				{
+					"egg": {
+						"name": "PocketmineMP",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/pocketmine_mp/egg-pocketmine-m-p.json"
+				},
+				{
+					"egg": {
+						"name": "Purpur-Geyser-Floodgate",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/crossplay/purpur-geysermc-floodgate/egg-purpur--geyser--floodgate.json"
+				},
+				{
+					"egg": {
+						"name": "Cuberite",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/cuberite/egg-cuberite.json"
+				},
+				{
+					"egg": {
+						"name": "CurseForge Generic",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-curse-forge-generic.json"
+				},
+				{
+					"egg": {
+						"name": "Fabric",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-fabric.json"
+				},
+				{
+					"egg": {
+						"name": "Feather",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/feather/egg-feather.json"
+				},
+				{
+					"egg": {
+						"name": "Folia",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-folia.json"
+				},
+				{
+					"egg": {
+						"name": "Forge Enhanced",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/forge/egg-forge-enhanced.json"
+				},
+				{
+					"egg": {
+						"name": "FTB-modpacks.ch Server",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/egg-f-t-b-modpacks-ch-server.json"
+				},
+				{
+					"egg": {
+						"name": "FTB Revelation",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-f-t-b-revelation.json"
+				},
+				{
+					"egg": {
+						"name": "Feed the Beast",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-feed-the-beast.json"
+				},
+				{
+					"egg": {
+						"name": "Glowstone",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/glowstone/egg-glowstone.json"
+				},
+				{
+					"egg": {
+						"name": "Krypton",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/krypton/egg-krypton.json"
+				},
+				{
+					"egg": {
+						"name": "Limbo",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/limbo/egg-limbo.json"
+				},
+				{
+					"egg": {
+						"name": "Magma",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/magma/egg-magma.json"
+				},
+				{
+					"egg": {
+						"name": "Modrinth Generic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/modrinth/egg-modrinth-generic.json"
+				},
+				{
+					"egg": {
+						"name": "MohistMC",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-mohist.json"
+				},
+				{
+					"egg": {
+						"name": "NanoLimbo",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/nanolimbo/egg-nano-limbo.json"
+				},
+				{
+					"egg": {
+						"name": "NeoForge",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/neoforge/egg-neo-forge.json"
+				},
+				{
+					"egg": {
+						"name": "Paper",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/paper/egg-paper.json"
+				},
+				{
+					"egg": {
+						"name": "Purpur",
+						"meta": {
+							"version": "PLCN_v1"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-purpur.json"
+				},
+				{
+					"egg": {
+						"name": "Quilt",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-quilt.json"
+				},
+				{
+					"egg": {
+						"name": "Spigot",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-spigot.json"
+				},
+				{
+					"egg": {
+						"name": "SpongeForge",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongeforge/egg-sponge-forge.json"
+				},
+				{
+					"egg": {
+						"name": "SpongeVanilla",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongevanilla/egg-sponge-vanilla.json"
+				},
+				{
+					"egg": {
+						"name": "Tekkit",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit/egg-tekkit.json"
+				},
+				{
+					"egg": {
+						"name": "Tekkit 2",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit-2/egg-tekkit2.json"
+				},
+				{
+					"egg": {
+						"name": "Attack of the B-Team",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/attack-of-the-bteam/egg-attack-of-the-b--team.json"
+				},
+				{
+					"egg": {
+						"name": "Blightfall",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/blightfall/egg-blightfall.json"
+				},
+				{
+					"egg": {
+						"name": "Hexxit",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/hexxit/egg-hexxit.json"
+				},
+				{
+					"egg": {
+						"name": "Tekkit Classic",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-classic/egg-tekkit-classic.json"
+				},
+				{
+					"egg": {
+						"name": "Tekkit Legends",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-legends/egg-tekkit-legends.json"
+				},
+				{
+					"egg": {
+						"name": "Tekkit SMP",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-smp/egg-tekkit-smp.json"
+				},
+				{
+					"egg": {
+						"name": "The 1.12.2 Pack",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-12-2-pack/egg-the1-12-2-pack.json"
+				},
+				{
+					"egg": {
+						"name": "The 1.7.10 Pack",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-7-10-pack/egg-the1-7-10-pack.json"
+				},
+				{
+					"egg": {
+						"name": "VanillaCord",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanillacord/egg-vanilla-cord.json"
+				},
+				{
+					"egg": {
+						"name": "Waterdog PE",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/bedrock/waterdog_pe/egg-waterdog-p-e.json"
+				},
+				{
+					"egg": {
+						"name": "Waterdog",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/cross_platform/waterdog/egg-waterdog.json"
+				},
+				{
+					"egg": {
+						"name": "Travertine",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/travertine/egg-travertine.json"
+				},
+				{
+					"egg": {
+						"name": "Velocity",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/velocity/egg-velocity.json"
+				},
+				{
+					"egg": {
+						"name": "VIAaaS",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaaas/egg-v-i-aaa-s.json"
+				},
+				{
+					"egg": {
+						"name": "Waterfall",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-waterfall.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Monitoring",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Loki",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/loki/egg-loki.json"
+				},
+				{
+					"egg": {
+						"name": "Prometheus",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/prometheus/egg-prometheus.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Storage",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Minio S3",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-minio-s3.json"
+				},
+				{
+					"egg": {
+						"name": "SFTP Storage Share",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-s-f-t-p-storage-share.json"
+				}
+			]
+		},
+		{
+			"nest_type": "Voice",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Teamspeak3 Server ARM64",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak_ARM64/egg-teamspeak3-arm64-server.json"
+				},
+				{
+					"egg": {
+						"name": "TS3 Manager",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-t-s3-manager.json"
+				}
+			]
+		}
+	]
+}
