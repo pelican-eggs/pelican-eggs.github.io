@@ -13,7 +13,5 @@
     <loc>http://localhost:1313/series/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/test/</loc>
   </url>
 </urlset>
