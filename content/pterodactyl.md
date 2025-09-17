@@ -28,6 +28,7 @@ draft = false
 ## Database
 | Egg | Download |
 |-----|----------|
+| MariaDB 10.3 | https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/mariadb/egg-pterodactyl-maria-d-b10-3.json |
 
 ## Standalone
 | Egg | Download |
@@ -90,6 +91,7 @@ draft = false
 | The Battle for Wesnoth | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json |
 | Urban Terror | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-pterodactyl-urban-terror.json |
 | Veloren | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-pterodactyl-veloren.json |
+| Venice Unleashed | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-pterodactyl-venice-unleashed.json |
 | Vintage Story | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-pterodactyl-vintage-story.json |
 | Wine Generic | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-pterodactyl-wine-generic.json |
 | ET Legacy | https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json |
@@ -106,7 +108,6 @@ draft = false
 | Arma Reforger | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json |
 | Assetto Corsa (Freeroam + AI) | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json |
 | Assetto Corsa | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json |
-| Astro Colony [wine] | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony-wine.json |
 | Astro Colony | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony.json |
 | Astroneer Dedicated Server | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json |
 | Avorion | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-pterodactyl-avorion.json |
@@ -145,6 +146,7 @@ draft = false
 | Left 4 Dead | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-pterodactyl-left4-dead.json |
 | Left 4 Dead 2 | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-pterodactyl-left4-dead2.json |
 | Longvinter | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-pterodactyl-longvinter.json |
+| The Lord of the Rings: Return to Moria | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/lotr_moria/egg-pterodactyl-lotr-return-to-moria.json |
 | Midnight Ghost Hunt | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json |
 | Modiverse | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-pterodactyl-modiverse.json |
 | Mordhau Wine | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau-wine.json |
@@ -168,6 +170,7 @@ draft = false
 | Portal Knights | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-pterodactyl-portal-knights.json |
 | Post Scriptum | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-pterodactyl-post-scriptum.json |
 | Project Zomboid | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-pterodactyl-project-zomboid.json |
+| QANGA | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/qanga/egg-pterodactyl-q-a-n-g-a.json |
 | Quake Live | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-pterodactyl-quake-live.json |
 | Resonite | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-pterodactyl-resonite.json |
 | Rising World Java Legacy | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-pterodactyl-rising-world-java-legacy.json |
@@ -210,6 +213,7 @@ draft = false
 | Valheim | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json |
 | VEIN | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-pterodactyl-v-e-i-n.json |
 | Wurm Unlimited | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-pterodactyl-wurm-unlimited.json |
+| Zombie Survival Game Online | https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/zombie_survival_game_online/egg-pterodactyl-zombie-survival-game-online.json |
 
 ## Generic Language
 | Egg | Download |
@@ -247,6 +251,7 @@ draft = false
 | FTB Revelation | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-f-t-b-revelation.json |
 | Feed the Beast | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-feed-the-beast.json |
 | Glowstone | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/glowstone/egg-pterodactyl-glowstone.json |
+| Ketting | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ketting/egg-pterodactyl-ketting.json |
 | Krypton | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/krypton/egg-pterodactyl-krypton.json |
 | Limbo | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/limbo/egg-pterodactyl-limbo.json |
 | Magma | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/magma/egg-pterodactyl-magma.json |
@@ -276,6 +281,7 @@ draft = false
 | Travertine | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/travertine/egg-pterodactyl-travertine.json |
 | Velocity | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/velocity/egg-pterodactyl-velocity.json |
 | VIAaaS | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json |
+| ViaProxy | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaproxy/egg-pterodactyl-via-proxy.json |
 | Waterfall | https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json |
 
 ## Monitoring
@@ -291,3 +297,4 @@ draft = false
 ## Voice
 | Egg | Download |
 |-----|----------|
+| TS3 Manager | https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-pterodactyl-t-s3-manager.json |

@@ -11,7 +11,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-pterodactyl-aoede.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-pterodactyl-aoede.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -20,7 +21,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -29,7 +31,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-pterodactyl-bastion.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-pterodactyl-bastion.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -38,7 +41,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-pterodactyl-corp-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -47,7 +51,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-pterodactyl-dynamica.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-pterodactyl-dynamica.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -56,7 +61,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-pterodactyl-fragbot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-pterodactyl-fragbot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -65,7 +71,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -74,7 +81,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -83,7 +91,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-pterodactyl-muse.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-pterodactyl-muse.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -92,7 +101,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-pterodactyl-parkertron.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-pterodactyl-parkertron.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -101,7 +111,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -110,7 +121,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-pterodactyl-red.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-pterodactyl-red.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -119,7 +131,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-pterodactyl-ree6.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-pterodactyl-ree6.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -128,7 +141,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-pterodactyl-sinusbot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -137,7 +151,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -146,7 +161,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -155,7 +171,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -164,13 +181,25 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-pterodactyl-soge-bot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
+					"readme": ""
 				}
 			]
 		},
 		{
 			"nest_type": "Database",
-			"Eggs": null
+			"Eggs": [
+				{
+					"egg": {
+						"name": "MariaDB 10.3",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/mariadb/egg-pterodactyl-maria-d-b10-3.json",
+					"readme": ""
+				}
+			]
 		},
 		{
 			"nest_type": "Standalone",
@@ -182,7 +211,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-pterodactyl-super-tux-kart.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-pterodactyl-super-tux-kart.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -191,7 +221,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -200,7 +231,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -209,7 +241,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -218,7 +251,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-pterodactyl-archean.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-pterodactyl-archean.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -227,7 +261,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -236,7 +271,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-pterodactyl-kiss-m-p-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-pterodactyl-kiss-m-p-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -245,7 +281,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -254,7 +291,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-pterodactyl-clone-hero.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-pterodactyl-clone-hero.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -263,7 +301,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-pterodactyl-c-s2-d.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-pterodactyl-c-s2-d.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -272,7 +311,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-pterodactyl-assault-cube.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-pterodactyl-assault-cube.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -281,7 +321,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-pterodactyl-cube2--sauerbraten.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-pterodactyl-cube2--sauerbraten.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -290,7 +331,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-pterodactyl-d-d-race-network.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-pterodactyl-d-d-race-network.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -299,7 +341,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-pterodactyl-zandronum.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-pterodactyl-zandronum.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -308,7 +351,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-pterodactyl-stay-in-tarkov.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-pterodactyl-stay-in-tarkov.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -317,7 +361,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-pterodactyl-clusterio.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -326,7 +371,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -335,7 +381,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -344,7 +391,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-pterodactyl-factorio--mod-update.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-pterodactyl-factorio--mod-update.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -353,7 +401,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -362,7 +411,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-pterodactyl-tachyon.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-pterodactyl-tachyon.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -371,7 +421,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-pterodactyl-alt--v.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-pterodactyl-alt--v.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -380,7 +431,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-pterodactyl-five-m.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-pterodactyl-five-m.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -389,7 +441,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-pterodactyl-grand-theft-auto-connected.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-pterodactyl-grand-theft-auto-connected.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -398,7 +451,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -407,7 +461,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-pterodactyl-open-m-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-pterodactyl-open-m-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -416,7 +471,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-pterodactyl-rage-c-o-o-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-pterodactyl-rage-c-o-o-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -425,7 +481,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-pterodactyl-rage--m-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-pterodactyl-rage--m-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -434,7 +491,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-pterodactyl-s-a--m-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-pterodactyl-s-a--m-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -443,7 +501,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-pterodactyl-hogwarp.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-pterodactyl-hogwarp.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -452,7 +511,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -461,7 +521,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-pterodactyl-league-sandbox.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-pterodactyl-league-sandbox.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -470,7 +531,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -479,7 +541,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-pterodactyl-mindustry.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-pterodactyl-mindustry.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -488,7 +551,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-pterodactyl-minetest.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-pterodactyl-minetest.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -497,7 +561,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-pterodactyl-mohaa.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-pterodactyl-mohaa.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -506,7 +571,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -515,7 +581,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-pterodactyl-neverwinter-nights--enhanced-edition.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-pterodactyl-neverwinter-nights--enhanced-edition.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -524,7 +591,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-pterodactyl-open-arena.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-pterodactyl-open-arena.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -533,7 +601,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -542,7 +611,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-pterodactyl-open-r-a.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-pterodactyl-open-r-a.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -551,7 +621,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-pterodactyl-open-r-a--tiberian-dawn.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-pterodactyl-open-r-a--tiberian-dawn.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -560,7 +631,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-pterodactyl-open-r-c-t2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-pterodactyl-open-r-c-t2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -569,7 +641,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-pterodactyl-open-t-t-d-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -578,7 +651,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-pterodactyl-path-of-titans.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -587,7 +661,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-pterodactyl-red-m.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-pterodactyl-red-m.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -596,7 +671,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -605,7 +681,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-pterodactyl-rimworld-together.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -614,7 +691,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-pterodactyl-spacestation14.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-pterodactyl-spacestation14.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -623,7 +701,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-pterodactyl-starmade.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-pterodactyl-starmade.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -632,7 +711,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-pterodactyl-teeworlds.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-pterodactyl-teeworlds.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -641,7 +721,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -650,7 +731,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -659,7 +741,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -668,7 +751,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -677,7 +761,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -686,7 +771,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-pterodactyl-urban-terror.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-pterodactyl-urban-terror.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -695,7 +781,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-pterodactyl-veloren.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-pterodactyl-veloren.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Venice Unleashed",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-pterodactyl-venice-unleashed.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -704,7 +801,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-pterodactyl-vintage-story.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-pterodactyl-vintage-story.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -713,7 +811,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-pterodactyl-wine-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-pterodactyl-wine-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -722,7 +821,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -731,7 +831,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-pterodactyl-xonotic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-pterodactyl-xonotic.json",
+					"readme": ""
 				}
 			]
 		},
@@ -745,7 +846,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/7_days_to_die/egg-pterodactyl-7-days-to-die.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/7_days_to_die/egg-pterodactyl-7-days-to-die.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -754,7 +856,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-pterodactyl-abiotic-factor.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-pterodactyl-abiotic-factor.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -763,7 +866,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -772,7 +876,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -781,7 +886,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma3/egg-pterodactyl-arma3.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma3/egg-pterodactyl-arma3.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -790,7 +896,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -799,7 +906,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -808,16 +916,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json"
-				},
-				{
-					"egg": {
-						"name": "Astro Colony [wine]",
-						"meta": {
-							"version": "PTDL_v2"
-						}
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony-wine.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -826,7 +926,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -835,7 +936,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -844,7 +946,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-pterodactyl-avorion.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-pterodactyl-avorion.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -853,7 +956,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/barotrauma/egg-pterodactyl-barotrauma.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/barotrauma/egg-pterodactyl-barotrauma.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -862,7 +966,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -871,7 +976,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/black_mesa/egg-pterodactyl-black-mesa.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/black_mesa/egg-pterodactyl-black-mesa.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -880,7 +986,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -889,7 +996,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/colony_survival/egg-pterodactyl-colony-survival.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/colony_survival/egg-pterodactyl-colony-survival.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -898,7 +1006,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-pterodactyl-conan-exiles.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-pterodactyl-conan-exiles.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -907,7 +1016,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/core_keeper/egg-pterodactyl-core-keeper.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/core_keeper/egg-pterodactyl-core-keeper.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -916,7 +1026,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-pterodactyl-counter--strike2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-pterodactyl-counter--strike2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -925,7 +1036,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -934,7 +1046,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-pterodactyl-craftopia.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-pterodactyl-craftopia.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -943,7 +1056,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cryofall/egg-pterodactyl-cryo-fall.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cryofall/egg-pterodactyl-cryo-fall.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -952,7 +1066,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dayz/egg-pterodactyl-day-z.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dayz/egg-pterodactyl-day-z.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -961,7 +1076,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ddnet/egg-pterodactyl-d-d-net.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ddnet/egg-pterodactyl-d-d-net.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -970,7 +1086,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dead_matter/egg-pterodactyl-dead-matter.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dead_matter/egg-pterodactyl-dead-matter.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -979,7 +1096,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dont_starve/egg-pterodactyl-don-t-starve-together.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -988,7 +1106,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/eco/egg-pterodactyl-eco.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/eco/egg-pterodactyl-eco.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -997,7 +1116,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1006,7 +1126,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-pterodactyl-enshrouded.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-pterodactyl-enshrouded.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1015,7 +1136,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/fof/egg-pterodactyl-fof.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/fof/egg-pterodactyl-fof.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1024,7 +1146,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/foundry/egg-pterodactyl-foundry.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/foundry/egg-pterodactyl-foundry.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1033,7 +1156,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/frozen_flame/egg-pterodactyl-frozen-flame.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1042,7 +1166,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1051,7 +1176,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ground_branch/egg-pterodactyl-ground-branch.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ground_branch/egg-pterodactyl-ground-branch.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1060,7 +1186,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/rehlds/egg-pterodactyl-custom-re-h-l-d-s-engine-game.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/rehlds/egg-pterodactyl-custom-re-h-l-d-s-engine-game.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1069,7 +1196,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/vanilla/egg-pterodactyl-custom-h-l-d-s-engine-game.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/vanilla/egg-pterodactyl-custom-h-l-d-s-engine-game.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1078,7 +1206,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/holdfast/egg-pterodactyl-holdfast-na-w.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1087,7 +1216,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/humanitz/egg-pterodactyl-humanit-z.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/humanitz/egg-pterodactyl-humanit-z.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1096,7 +1226,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hurtworld/egg-pterodactyl-hurtworld.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hurtworld/egg-pterodactyl-hurtworld.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1105,7 +1236,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/egg-pterodactyl-icarus--dedicated.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/egg-pterodactyl-icarus--dedicated.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1114,7 +1246,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1123,7 +1256,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/iosoccer/egg-pterodactyl-iosoccer-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1132,7 +1266,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/killing_floor_2/egg-pterodactyl-killing-floor2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1141,7 +1276,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-pterodactyl-left4-dead.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-pterodactyl-left4-dead.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1150,7 +1286,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-pterodactyl-left4-dead2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1159,7 +1296,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-pterodactyl-longvinter.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-pterodactyl-longvinter.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "The Lord of the Rings: Return to Moria",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/lotr_moria/egg-pterodactyl-lotr-return-to-moria.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1168,7 +1316,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1177,7 +1326,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-pterodactyl-modiverse.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-pterodactyl-modiverse.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1186,7 +1336,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau-wine.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau-wine.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1195,7 +1346,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1204,7 +1356,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1213,7 +1366,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/myth_of_empires/egg-pterodactyl-myth-of-empires.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/myth_of_empires/egg-pterodactyl-myth-of-empires.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1222,7 +1376,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/necesse/egg-pterodactyl-necesse.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/necesse/egg-pterodactyl-necesse.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1231,7 +1386,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/neosvr/egg-pterodactyl-neos-v-r.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/neosvr/egg-pterodactyl-neos-v-r.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1240,7 +1396,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1249,7 +1406,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nmrih/egg-pterodactyl-nmrih.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nmrih/egg-pterodactyl-nmrih.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1258,7 +1416,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-pterodactyl-no-love-lost.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-pterodactyl-no-love-lost.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1267,7 +1426,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_one_survived/egg-pterodactyl-no-one-survived.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1276,7 +1436,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1285,7 +1446,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/onset/egg-pterodactyl-onset.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/onset/egg-pterodactyl-onset.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1294,7 +1456,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/open_fortress/egg-pterodactyl-open-fortress.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/open_fortress/egg-pterodactyl-open-fortress.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1303,7 +1466,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1312,7 +1476,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld-proton.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld-proton.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1321,7 +1486,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1330,7 +1496,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1339,7 +1506,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pterodactyl-pix-a-r-k.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pterodactyl-pix-a-r-k.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1348,7 +1516,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-pterodactyl-portal-knights.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-pterodactyl-portal-knights.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1357,7 +1526,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-pterodactyl-post-scriptum.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-pterodactyl-post-scriptum.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1366,7 +1536,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-pterodactyl-project-zomboid.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "QANGA",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/qanga/egg-pterodactyl-q-a-n-g-a.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1375,7 +1556,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-pterodactyl-quake-live.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-pterodactyl-quake-live.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1384,7 +1566,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-pterodactyl-resonite.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-pterodactyl-resonite.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1393,7 +1576,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-pterodactyl-rising-world-java-legacy.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-pterodactyl-rising-world-java-legacy.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1402,7 +1586,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/unity/egg-pterodactyl-rising-world-unity.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/unity/egg-pterodactyl-rising-world-unity.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1411,7 +1596,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/risk_of_rain_2/egg-pterodactyl-risk-of-rain2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/risk_of_rain_2/egg-pterodactyl-risk-of-rain2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1420,7 +1606,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1429,7 +1616,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-pterodactyl-rust-staging.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1438,7 +1626,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/satisfactory/egg-pterodactyl-satisfactory.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/satisfactory/egg-pterodactyl-satisfactory.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1447,7 +1636,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/dedicated/egg-pterodactyl-s-c-p--s-l.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/dedicated/egg-pterodactyl-s-c-p--s-l.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1456,7 +1646,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1465,7 +1656,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1474,7 +1666,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/solace_crafting/egg-pterodactyl-solace-crafting.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1483,7 +1676,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soldat/egg-pterodactyl-soldat.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soldat/egg-pterodactyl-soldat.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1492,7 +1686,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1501,7 +1696,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-pterodactyl-soulmask.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-pterodactyl-soulmask.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1510,7 +1706,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sourcecoop/egg-pterodactyl-source-coop.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sourcecoop/egg-pterodactyl-source-coop.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1519,7 +1716,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/default/egg-pterodactyl-space-engineers.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/default/egg-pterodactyl-space-engineers.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1528,7 +1726,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1537,7 +1736,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-pterodactyl-squad.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-pterodactyl-squad.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1546,7 +1746,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/starbound/egg-pterodactyl-starbound.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/starbound/egg-pterodactyl-starbound.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1555,7 +1756,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_bepinex/egg-pterodactyl-stationeers--bep-in-ex.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_bepinex/egg-pterodactyl-stationeers--bep-in-ex.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1564,7 +1766,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_vanilla/egg-pterodactyl-stationeers.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_vanilla/egg-pterodactyl-stationeers.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1573,7 +1776,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stormworks/egg-pterodactyl-stormworks--build-and-rescue.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stormworks/egg-pterodactyl-stormworks--build-and-rescue.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1582,7 +1786,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-pterodactyl-subnautica.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-pterodactyl-subnautica.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1591,7 +1796,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/svencoop/egg-pterodactyl-sven-co-op.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/svencoop/egg-pterodactyl-sven-co-op.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1600,7 +1806,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1609,7 +1816,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1618,7 +1826,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/terratech_worlds/egg-pterodactyl-terra-tech-worlds.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/terratech_worlds/egg-pterodactyl-terra-tech-worlds.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1627,7 +1836,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_forest/egg-pterodactyl-the-forest.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_forest/egg-pterodactyl-the-forest.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1636,7 +1846,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-pterodactyl-the-isle.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-pterodactyl-the-isle.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1645,7 +1856,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/thefront/egg-pterodactyl-the-front.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/thefront/egg-pterodactyl-the-front.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1654,7 +1866,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/tower_unite/egg-pterodactyl-tower-unite.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/tower_unite/egg-pterodactyl-tower-unite.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1663,7 +1876,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/american-truck-simulator/egg-pterodactyl-american-truck-simulator-dedicated-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/american-truck-simulator/egg-pterodactyl-american-truck-simulator-dedicated-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1672,7 +1886,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1681,7 +1896,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/unturned/egg-pterodactyl-unturned.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/unturned/egg-pterodactyl-unturned.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1690,7 +1906,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1699,7 +1916,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1708,7 +1926,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-pterodactyl-valheim-bep-i-nex.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-pterodactyl-valheim-bep-i-nex.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1717,7 +1936,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1726,7 +1946,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1735,7 +1956,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-pterodactyl-v-e-i-n.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-pterodactyl-v-e-i-n.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1744,7 +1966,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-pterodactyl-wurm-unlimited.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-pterodactyl-wurm-unlimited.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Zombie Survival Game Online",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/zombie_survival_game_online/egg-pterodactyl-zombie-survival-game-online.json",
+					"readme": ""
 				}
 			]
 		},
@@ -1758,7 +1991,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-pterodactyl-bun.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-pterodactyl-bun.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1767,7 +2001,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1776,7 +2011,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-pterodactyl-dart-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-pterodactyl-dart-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1785,7 +2021,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-pterodactyl-deno-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-pterodactyl-deno-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1794,7 +2031,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-pterodactyl-elixir.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-pterodactyl-elixir.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1803,7 +2041,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-pterodactyl-golang-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-pterodactyl-golang-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1812,7 +2051,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-pterodactyl-generic-java.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-pterodactyl-generic-java.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1821,7 +2061,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-pterodactyl-luvit-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-pterodactyl-luvit-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1830,7 +2071,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/egg-pterodactyl-node-js-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/egg-pterodactyl-node-js-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1839,7 +2081,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-pterodactyl-nodemon.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-pterodactyl-nodemon.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1848,7 +2091,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-pterodactyl-python-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-pterodactyl-python-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1857,7 +2101,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-pterodactyl-rust-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-pterodactyl-rust-generic.json",
+					"readme": ""
 				}
 			]
 		},
@@ -1871,7 +2116,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1880,7 +2126,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1889,7 +2136,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1898,7 +2146,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1907,7 +2156,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/gomint/egg-pterodactyl-go-mint.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1916,7 +2166,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/nukkit/egg-pterodactyl-nukkit.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1925,7 +2176,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1934,7 +2186,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1943,7 +2196,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/cuberite/egg-pterodactyl-cuberite.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/cuberite/egg-pterodactyl-cuberite.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1952,7 +2206,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1961,7 +2216,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-pterodactyl-fabric.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-pterodactyl-fabric.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1970,7 +2226,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-pterodactyl-folia.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-pterodactyl-folia.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1979,7 +2236,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/forge/egg-pterodactyl-forge-enhanced.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/forge/egg-pterodactyl-forge-enhanced.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1988,7 +2246,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/egg-pterodactyl-f-t-b-modpacks-ch-server.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/egg-pterodactyl-f-t-b-modpacks-ch-server.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -1997,7 +2256,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-f-t-b-revelation.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-f-t-b-revelation.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2006,7 +2266,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-feed-the-beast.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-feed-the-beast.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2015,7 +2276,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/glowstone/egg-pterodactyl-glowstone.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/glowstone/egg-pterodactyl-glowstone.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Ketting",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ketting/egg-pterodactyl-ketting.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2024,7 +2296,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/krypton/egg-pterodactyl-krypton.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/krypton/egg-pterodactyl-krypton.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2033,7 +2306,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/limbo/egg-pterodactyl-limbo.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/limbo/egg-pterodactyl-limbo.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2042,7 +2316,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/magma/egg-pterodactyl-magma.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/magma/egg-pterodactyl-magma.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2051,7 +2326,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/modrinth/egg-pterodactyl-modrinth-generic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/modrinth/egg-pterodactyl-modrinth-generic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2060,7 +2336,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-pterodactyl-mohist.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-pterodactyl-mohist.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2069,7 +2346,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/nanolimbo/egg-pterodactyl-nano-limbo.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/nanolimbo/egg-pterodactyl-nano-limbo.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2078,7 +2356,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/neoforge/egg-pterodactyl-neo-forge.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/neoforge/egg-pterodactyl-neo-forge.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2087,7 +2366,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/paper/egg-pterodactyl-paper.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/paper/egg-pterodactyl-paper.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2096,7 +2376,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-pterodactyl-purpur.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-pterodactyl-purpur.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2105,7 +2386,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-pterodactyl-quilt.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-pterodactyl-quilt.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2114,7 +2396,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-pterodactyl-spigot.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-pterodactyl-spigot.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2123,7 +2406,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongeforge/egg-pterodactyl-sponge-forge.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2132,7 +2416,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2141,7 +2426,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit/egg-pterodactyl-tekkit.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit/egg-pterodactyl-tekkit.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2150,7 +2436,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2159,7 +2446,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2168,7 +2456,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/blightfall/egg-pterodactyl-blightfall.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/blightfall/egg-pterodactyl-blightfall.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2177,7 +2466,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/hexxit/egg-pterodactyl-hexxit.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/hexxit/egg-pterodactyl-hexxit.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2186,7 +2476,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2195,7 +2486,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2204,7 +2496,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-smp/egg-pterodactyl-tekkit-smp.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-smp/egg-pterodactyl-tekkit-smp.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2213,7 +2506,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-12-2-pack/egg-pterodactyl-the1-12-2-pack.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-12-2-pack/egg-pterodactyl-the1-12-2-pack.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2222,7 +2516,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-7-10-pack/egg-pterodactyl-the1-7-10-pack.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-7-10-pack/egg-pterodactyl-the1-7-10-pack.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2231,7 +2526,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanillacord/egg-pterodactyl-vanilla-cord.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanillacord/egg-pterodactyl-vanilla-cord.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2240,7 +2536,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2249,7 +2546,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2258,7 +2556,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/travertine/egg-pterodactyl-travertine.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2267,7 +2566,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/velocity/egg-pterodactyl-velocity.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2276,7 +2576,18 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "ViaProxy",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaproxy/egg-pterodactyl-via-proxy.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2285,7 +2596,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
+					"readme": ""
 				}
 			]
 		},
@@ -2303,7 +2615,8 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-pterodactyl-minio-s3.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-pterodactyl-minio-s3.json",
+					"readme": ""
 				},
 				{
 					"egg": {
@@ -2312,13 +2625,25 @@
 							"version": "PTDL_v2"
 						}
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-pterodactyl-s-f-t-p-storage-share.json"
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-pterodactyl-s-f-t-p-storage-share.json",
+					"readme": ""
 				}
 			]
 		},
 		{
 			"nest_type": "Voice",
-			"Eggs": null
+			"Eggs": [
+				{
+					"egg": {
+						"name": "TS3 Manager",
+						"meta": {
+							"version": "PTDL_v2"
+						}
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-pterodactyl-t-s3-manager.json",
+					"readme": ""
+				}
+			]
 		}
 	]
 }
