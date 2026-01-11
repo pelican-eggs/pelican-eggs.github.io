@@ -233,7 +233,7 @@ draft = false
 | Egg | Download |
 |-----|----------|
 | Bun | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-bun.json |
-| Generic C# | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-generic-c.json |
+| Generic C# | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c%23/egg-generic-c.json |
 | dart generic | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-dart-generic.json |
 | Deno Generic | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-deno-generic.json |
 | Elixir | https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-elixir.json |
