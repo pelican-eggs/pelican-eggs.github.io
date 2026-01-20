@@ -550,7 +550,7 @@
 						},
 						"description": "The vanilla Factorio server.  https://www.factorio.com/"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-factorio.yaml",
 					"readme": ""
 				},
 				{
@@ -693,7 +693,7 @@
 						},
 						"description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandboxwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and avariety of creatures, then shape it block by block."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hytale/egg-hytale.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hytale/egg-hytale.yaml",
 					"readme": ""
 				},
 				{
