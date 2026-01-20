@@ -2051,7 +2051,7 @@
 						},
 						"description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_%27n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
 					"readme": ""
 				},
 				{
@@ -2107,17 +2107,6 @@
 						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-pterodactyl-the-isle.json",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "The Isle",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/pterodactyl-egg-the-isle.json",
 					"readme": ""
 				},
 				{
@@ -2309,7 +2298,7 @@
 						},
 						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c%23/egg-pterodactyl-generic-c.json",
 					"readme": ""
 				},
 				{
