@@ -9,7 +9,8 @@
 						"name": "Aoede",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-pterodactyl-aoede.json",
 					"readme": ""
@@ -19,7 +20,8 @@
 						"name": "ATLBot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "ATLbot in ptero  https://github.com/ATLauncher/discord-bot/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-pterodactyl-a-t-l-bot.json",
 					"readme": ""
@@ -29,7 +31,8 @@
 						"name": "Bastion",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-pterodactyl-bastion.json",
 					"readme": ""
@@ -39,7 +42,8 @@
 						"name": "CorpBot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A very clumsy python bot for discord   https://github.com/corpnewt/CorpBot.py"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-pterodactyl-corp-bot.json",
 					"readme": ""
@@ -49,7 +53,8 @@
 						"name": "Dynamica",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "An easy-to-use dynamic voice channel bot."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-pterodactyl-dynamica.json",
 					"readme": ""
@@ -59,7 +64,8 @@
 						"name": "fragbot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The fragforce discord bot.  located at https://github.com/fragforce/fragbot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-pterodactyl-fragbot.json",
 					"readme": ""
@@ -69,7 +75,8 @@
 						"name": "Game Server Watcher",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-pterodactyl-game-server-watcher.json",
 					"readme": ""
@@ -79,7 +86,8 @@
 						"name": "JMusicBot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A Discord music bot that's easy to set up and run yourself!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-pterodactyl-j-music-bot.json",
 					"readme": ""
@@ -89,7 +97,8 @@
 						"name": "Muse",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Muse is a self-hosted Discord music bot that is made for small to medium-sized Discord servers/guilds."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-pterodactyl-muse.json",
 					"readme": ""
@@ -99,7 +108,8 @@
 						"name": "parkertron",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The stupid chatbot parkertron by Parkervcp.  https://github.com/parkervcp/parkertron"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-pterodactyl-parkertron.json",
 					"readme": ""
@@ -109,7 +119,8 @@
 						"name": "pixel-bot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A Discord bot written in Python using discord.py  https://github.com/Ispira/pixel-bot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pterodactyl-pixel-bot.json",
 					"readme": ""
@@ -119,7 +130,8 @@
 						"name": "Red",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A multifunction Discord bot   https://github.com/Cog-Creators/Red-DiscordBot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-pterodactyl-red.json",
 					"readme": ""
@@ -129,7 +141,8 @@
 						"name": "Ree6",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "All-in-one, open source and 100% free Discord Bot!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-pterodactyl-ree6.json",
 					"readme": ""
@@ -139,7 +152,8 @@
 						"name": "Sinusbot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Musicbot for Discord and Teamspeak."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-pterodactyl-sinusbot.json",
 					"readme": ""
@@ -149,7 +163,8 @@
 						"name": "Big Brother Bot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.  https://github.com/BigBrotherBot/big-brother-bot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-pterodactyl-big-brother-bot.json",
 					"readme": ""
@@ -159,7 +174,8 @@
 						"name": "JTS3ServerMod",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Setup: - Install the latest version - Go into config/server1 and edit JTS3ServerMod_server.cfg - Save and start the server  Author: https://www.stefan1200.de/forum/index.php?topic=2.0"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-pterodactyl-j-t-s3-server-mod.json",
 					"readme": ""
@@ -169,7 +185,8 @@
 						"name": "PhantomBot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-pterodactyl-phantom-bot.json",
 					"readme": ""
@@ -179,7 +196,8 @@
 						"name": "SogeBot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-pterodactyl-soge-bot.json",
 					"readme": ""
@@ -194,7 +212,8 @@
 						"name": "MariaDB 10.3",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/database/refs/heads/main/sql/mariadb/egg-pterodactyl-maria-d-b10-3.json",
 					"readme": ""
@@ -206,10 +225,22 @@
 			"Eggs": [
 				{
 					"egg": {
+						"name": "One Hour One Life",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Dedicated server for One Hour One Life http://onehouronelife.com/"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/OneHourOneLife/pterodactyl-egg-one-hour-one-life.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "SuperTuxKart",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Egg for hosting a SuperTuxKart Server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/SuperTuxKart/egg-pterodactyl-super-tux-kart.json",
 					"readme": ""
@@ -219,7 +250,8 @@
 						"name": "BetterCrewlink Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "An egg designed to allow support for Proximity Chat in Among Us using BetterCrewLink Server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/bettercrewlink_server/egg-pterodactyl-better-crewlink-server.json",
 					"readme": ""
@@ -229,7 +261,8 @@
 						"name": "Crewlink server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "An egg designed to allow support for Proximity Chat in Among Us using CrewLink Server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/crewlink_server/egg-pterodactyl-crewlink-server.json",
 					"readme": ""
@@ -239,7 +272,8 @@
 						"name": "Among Us - Impostor Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Impostor is one of the first Among Us private servers, written in C#.  There are no special features at this moment, the goal is aiming to be as close as possible to the real server, for now. In a later stage, making modifications to game logic by modifying GameData packets can be looked at."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/among_us/impostor_server/egg-pterodactyl-among-us--impostor-server.json",
 					"readme": ""
@@ -249,7 +283,8 @@
 						"name": "Archean",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Archean invites you to unleash your creativity alone or with friends in a creative sandbox mode.Design and build vehicles, bases, rockets, space stations and much more using customizable modular blocks.Create unique configurations using components, program their behavior and explore an environment free of constraints.\\nTest your builds, refine your designs and defy the laws of physics.Archean is a game in development focused on engineering and build."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/archean/egg-pterodactyl-archean.json",
 					"readme": ""
@@ -259,7 +294,8 @@
 						"name": "BeamMP Servers",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This is the server for the multiplayer mod BeamMP for the game BeamNG.drive. The server is the point through which all clients communicate. You can write lua mods for the server, detailed instructions on the BeamMP Wiki."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/beammp/egg-pterodactyl-beam-m-p-servers.json",
 					"readme": ""
@@ -269,7 +305,8 @@
 						"name": "KissMP Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Server for the KISS Multiplayer BeamNG.drive mod"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/beamng/kissmp/egg-pterodactyl-kiss-m-p-server.json",
 					"readme": ""
@@ -279,7 +316,8 @@
 						"name": "ClassiCube(MGC)",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Debian based MCGalaxy Egg."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/classicube/mcgalaxy/egg-pterodactyl-classi-cube--m-g-c.json",
 					"readme": ""
@@ -289,7 +327,8 @@
 						"name": "Clone Hero",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Clone Hero is a classic instrument based rhythm game for Windows, Mac, Linux, and Android. It's playable with any 5 or 6 fret guitar controller, any midi drum kit, any game controller and even your keyboard! Jam out with Drums, 5-fret Guitar, or 6-fret Guitar online or local!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/clone_hero/egg-pterodactyl-clone-hero.json",
 					"readme": ""
@@ -299,7 +338,8 @@
 						"name": "CS2D",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Plant and defuse bombs, rescue hostages or accomplish new missions like capture the flag or domination! Use a huge arsenal of weapons and equipment including crazy stuff like portal guns, lasers, RPGs, turrets and much more! You can even build things!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cs2d/egg-pterodactyl-c-s2-d.json",
 					"readme": ""
@@ -309,7 +349,8 @@
 						"name": "AssaultCube",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine.  Taking place in realistic environments, with fast, arcade gameplay, it's addictive and fun!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/assaultcube/egg-pterodactyl-assault-cube.json",
 					"readme": ""
@@ -319,7 +360,8 @@
 						"name": "Cube 2: Sauerbraten",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Cube 2: Sauerbraten is a free multiplayer \u0026 singleplayer first person shooter, the successor of the Cube FPS. Much like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-pterodactyl-cube2--sauerbraten.json",
 					"readme": ""
@@ -329,7 +371,8 @@
 						"name": "DDRaceNetwork",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ddracenetwork/egg-pterodactyl-d-d-race-network.json",
 					"readme": ""
@@ -339,7 +382,8 @@
 						"name": "Zandronum",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Zandronum is a multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software.  This egg uses the Freedoom WAD by default."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/doom/zandronum/egg-pterodactyl-zandronum.json",
 					"readme": ""
@@ -349,7 +393,8 @@
 						"name": "Stay In Tarkov",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-pterodactyl-stay-in-tarkov.json",
 					"readme": ""
@@ -359,7 +404,8 @@
 						"name": "Clusterio",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Clusterio is a clustered Factorio server manager that provides the tooling for implementing cross server interactions in Factorio. It was previously best known for implementing cross server transfer and cloud storage of items via teleporter chests. But this functionality has been pulled out of Clusterio into its own plugin for Clusterio named Subspace Storage.  By itself Clusterio doesn't change the gameplay in any way, you could even use Clusterio to manage completely vanilla Factorio servers. Plugins do the work of modding in the visible changes into the game, see the Plugins section for ready-made plugins you can install into a Clusterio cluster."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/clusterio/egg-pterodactyl-clusterio.json",
 					"readme": ""
@@ -369,7 +415,8 @@
 						"name": "Factorio ARM64",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The vanilla Factorio server.  https://www.factorio.com/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio-a-r-m64.json",
 					"readme": ""
@@ -379,7 +426,8 @@
 						"name": "Factorio",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The vanilla Factorio server.  https://www.factorio.com/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio/egg-pterodactyl-factorio.json",
 					"readme": ""
@@ -389,7 +437,8 @@
 						"name": "Factorio-ModUpdate",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The vanilla Factorio server. With automatic Mod Updates after ReInstall.  https://www.factorio.com/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/factorio/factorio-modupdate/egg-pterodactyl-factorio--mod-update.json",
 					"readme": ""
@@ -399,7 +448,8 @@
 						"name": "Foundry VTT",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Foundry VTT is a standalone application built for experiencing multiplayer tabletop RPGs using a feature-rich and modern self-hosted application where your players connect directly through the browser."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/foundry_vtt/egg-pterodactyl-foundry-v-t-t.json",
 					"readme": ""
@@ -409,7 +459,8 @@
 						"name": "Tachyon",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A multiplayer version of FTL."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ftl_tachyon/egg-pterodactyl-tachyon.json",
 					"readme": ""
@@ -419,7 +470,8 @@
 						"name": "alt:V",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "alt:V Multiplayer a third-party multiplayer modification for Grand Theft Auto: V"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/altv/egg-pterodactyl-alt--v.json",
 					"readme": ""
@@ -429,7 +481,8 @@
 						"name": "FiveM",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A new FiveM / RedM egg for the latest builds due to recent changes in FiveM"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/fivem/egg-pterodactyl-five-m.json",
 					"readme": ""
@@ -439,7 +492,8 @@
 						"name": "Grand Theft Auto Connected",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Grand Theft Auto Connected is a custom scriptable multiplayer modification for multiple Grand Theft Auto games."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/gtac/egg-pterodactyl-grand-theft-auto-connected.json",
 					"readme": ""
@@ -449,7 +503,8 @@
 						"name": "Multi Theft Auto",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "What more could you want? Multi Theft Auto provides the best online Grand Theft Auto experience there is. Read on to find out more."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/mtasa/egg-pterodactyl-multi-theft-auto.json",
 					"readme": ""
@@ -459,7 +514,8 @@
 						"name": "OpenMP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A multiplayer mod for Grand Theft Auto: San Andreas that is fully backwards compatible with San Andreas Multiplayer."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/openmp/egg-pterodactyl-open-m-p.json",
 					"readme": ""
@@ -469,7 +525,8 @@
 						"name": "RageCOOP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Drive around the interstate with your buddy, enjoy GTAs environment, make own missions and events or just chill in Grove Street! 🌐"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragecoop/egg-pterodactyl-rage-c-o-o-p.json",
 					"readme": ""
@@ -479,7 +536,8 @@
 						"name": "Rage.MP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "https://rage.mp/  Modified to work with the latest version of RAGE:MP Will automatically install linux bridge. **This server requires 2 ports to be added for the server. the main port and the next (port+1) as ports for the server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/ragemp/egg-pterodactyl-rage--m-p.json",
 					"readme": ""
@@ -489,7 +547,8 @@
 						"name": "SA-MP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "SA-MP is a free Massively Multiplayer Online game mod for the PC version of Rockstar Games Grand Theft Auto: San Andreas (tm)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/gta/samp/egg-pterodactyl-s-a--m-p.json",
 					"readme": ""
@@ -499,9 +558,21 @@
 						"name": "Hogwarp",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-pterodactyl-hogwarp.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Hytale",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandboxwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and avariety of creatures, then shape it block by block."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hytale/pterodactyl-egg-hytale.json",
 					"readme": ""
 				},
 				{
@@ -509,7 +580,8 @@
 						"name": "KSP DMP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Dark Multiplayer mod server for Kerbal Space Program"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/ksp/egg-pterodactyl-k-s-p-d-m-p.json",
 					"readme": ""
@@ -519,7 +591,8 @@
 						"name": "LeagueSandbox",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A simple egg to run LeagueSandbox server in pterodactyl"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-pterodactyl-league-sandbox.json",
 					"readme": ""
@@ -529,7 +602,8 @@
 						"name": "LAC-Online Public Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "To make the Los Angeles Crimes public server. Los Angeles Crimes lets you play, create, and discover a variety of immersive worlds created by a global community!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/losangelescrimes/egg-pterodactyl-l-a-c--online-public-server.json",
 					"readme": ""
@@ -539,7 +613,8 @@
 						"name": "Mindustry",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Mindustry is a hybrid tower-defense sandbox factory game. Create elaborate supply chains of conveyor belts to feed ammo into your turrets, produce materials to use for building, and defend your structures from waves of enemies."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mindustry/egg-pterodactyl-mindustry.json",
 					"readme": ""
@@ -549,7 +624,8 @@
 						"name": "Minetest",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/minetest/egg-pterodactyl-minetest.json",
 					"readme": ""
@@ -559,7 +635,8 @@
 						"name": "mohaa",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Medal of Honor: Allied Assault"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/mohaa/egg-pterodactyl-mohaa.json",
 					"readme": ""
@@ -569,7 +646,8 @@
 						"name": "Nazi Zombies: Portable",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "NZ:P (Nazi Zombies: Portable) is based off of the FTEQW (Fore Thought Engine Quake World). This egg is specifically made for use with NZ:P (just downloads assets and QuakeC from NZ:P repositories) but there is nothing stopping you from using it as a general FTEQW egg given the NZ:P fork of FTEQW only added fog to the client (and added SDL which caused issues with arguments being eaten preventing dedicated flag from being read) which is why upstream FTEQW is used."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/nazi_zombies_portable/egg-pterodactyl-nazi-zombies--portable.json",
 					"readme": ""
@@ -579,7 +657,8 @@
 						"name": "Neverwinter Nights: Enhanced Edition",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Return to the Forgotten Realms in this bestselling Dungeons \u0026 Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-pterodactyl-neverwinter-nights--enhanced-edition.json",
 					"readme": ""
@@ -589,7 +668,8 @@
 						"name": "OpenArena",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenArena is a community-produced deathmatch FPS based on GPL idTech3 technology.  http://www.openarena.ws/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openarena/egg-pterodactyl-open-arena.json",
 					"readme": ""
@@ -599,7 +679,8 @@
 						"name": "OpenRA - Dune2000",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-pterodactyl-open-r-a--dune2000.json",
 					"readme": ""
@@ -609,7 +690,8 @@
 						"name": "OpenRA",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-pterodactyl-open-r-a.json",
 					"readme": ""
@@ -619,7 +701,8 @@
 						"name": "OpenRA - Tiberian Dawn",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-pterodactyl-open-r-a--tiberian-dawn.json",
 					"readme": ""
@@ -629,7 +712,8 @@
 						"name": "OpenRCT2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenRCT2 is an open-source re-implementation of RollerCoaster Tycoon 2 (RCT2), expanding the game with new features, fixing bugs and raising game limits."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openrct2/egg-pterodactyl-open-r-c-t2.json",
 					"readme": ""
@@ -639,7 +723,8 @@
 						"name": "OpenTTD",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "OpenTTD is an open source simulation game based upon the popular Microprose game \"Transport Tycoon Deluxe\", written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.  OpenTTD is modelled after the original Transport Tycoon game by Chris Sawyer and enhances the game experience dramatically. Many features were inspired by TTDPatch while others are original."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openttd/egg-pterodactyl-open-t-t-d-server.json",
 					"readme": ""
@@ -649,7 +734,8 @@
 						"name": "Path Of Titans",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/path_of_titans/egg-pterodactyl-path-of-titans.json",
 					"readme": ""
@@ -659,7 +745,8 @@
 						"name": "RedM",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A new RedM egg for the latest builds due to recent changes in RedM"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rdr/redm/egg-pterodactyl-red-m.json",
 					"readme": ""
@@ -669,7 +756,8 @@
 						"name": "Rimworld: Open World",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Open World mod allows you to create and join servers to play with people all around the world, it introduces plenty of new features including trading, gifting, bartering, PvP and so much more!  https://github.com/D12-Dev/OpenWorld"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/open_world/egg-pterodactyl-rimworld--open-world.json",
 					"readme": ""
@@ -679,7 +767,8 @@
 						"name": "Rimworld Together",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A community driven multiplayer mod, for Rimworld."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/rimworld/together/egg-pterodactyl-rimworld-together.json",
 					"readme": ""
@@ -689,7 +778,8 @@
 						"name": "Spacestation 14",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Space Station 14 tells the story of an ordinary shift on a space station gone wrong. Immerse yourself into your role, tinker with detailed systems, and survive the chaos in this round-based multiplayer role playing game."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/spacestation_14/egg-pterodactyl-spacestation14.json",
 					"readme": ""
@@ -699,7 +789,8 @@
 						"name": "starmade",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "starmade"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/starmade/egg-pterodactyl-starmade.json",
 					"readme": ""
@@ -709,7 +800,8 @@
 						"name": "Teeworlds",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/teeworlds/egg-pterodactyl-teeworlds.json",
 					"readme": ""
@@ -719,7 +811,8 @@
 						"name": "tModloader",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "tModLoader is essentially a mod that provides a way to load your own mods without having to work directly with Terraria's source code itself. This means you can easily make mods that are compatible with other people's mods, save yourself the trouble of having to decompile and recompile Terraria.exe, and escape from having to understand all of the obscure \"intricacies\" of Terraria's source code. It is made to work for Terraria 1.3+."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tmodloader/egg-pterodactyl-t-modloader.json",
 					"readme": ""
@@ -729,7 +822,8 @@
 						"name": "tshock legacy",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The t-shock modded terraria server.  https://tshock.co/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock-legacy.json",
 					"readme": ""
@@ -739,7 +833,8 @@
 						"name": "tshock",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The t-shock modded terraria server.  https://tshock.co/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/tshock/egg-pterodactyl-tshock.json",
 					"readme": ""
@@ -749,7 +844,8 @@
 						"name": "Terraria Vanilla",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/terraria/vanilla/egg-pterodactyl-terraria-vanilla.json",
 					"readme": ""
@@ -759,9 +855,21 @@
 						"name": "The Battle for Wesnoth",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Egg for hosting a Battle for Wesnoth Server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/thebattleforwesnoth/egg-pterodactyl-the-battle-for-wesnoth.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Trackmania (2020)",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Trackmania is a free-to-play game that combines racing and creation. Compete on over 1000 community-made tracks, create your own with the editor, and join clubs and events online."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/trackmania2020/pterodactyl-egg-trackmania2020.json",
 					"readme": ""
 				},
 				{
@@ -769,7 +877,8 @@
 						"name": "Urban Terror",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Urban Terror started as a realism based \"total conversion\" mod for Quake III Arena. Nowadays, Urban Terror is played using the free, stand-alone, ioquake3 engine modified, which doesn't require Quake III Arena, in addition to being an add-on to id Software's Quake III Arena."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/urbanterror/egg-pterodactyl-urban-terror.json",
 					"readme": ""
@@ -779,7 +888,8 @@
 						"name": "Veloren",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/veloren/egg-pterodactyl-veloren.json",
 					"readme": ""
@@ -789,7 +899,8 @@
 						"name": "Venice Unleashed",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server \u0026 modding platform that gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file, and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to `/bf3`."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-pterodactyl-venice-unleashed.json",
 					"readme": ""
@@ -799,7 +910,8 @@
 						"name": "Vintage Story",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Vintage Story is an uncompromising wilderness survival sandbox game inspired by lovecraftian horror themes. Find yourself in a ruined world reclaimed by nature and permeated by unnerving temporal disturbances. Relive the advent of human civilization, or take your own path."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/vintage_story/egg-pterodactyl-vintage-story.json",
 					"readme": ""
@@ -809,7 +921,8 @@
 						"name": "Wine Generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "a generic egg to run servers with wine"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wine/generic/egg-pterodactyl-wine-generic.json",
 					"readme": ""
@@ -819,7 +932,8 @@
 						"name": "ET Legacy",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Welcome to Enemy Territory: Legacy, an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/wolfenstein_enemy_territory/etlegacy/egg-pterodactyl-e-t-legacy.json",
 					"readme": ""
@@ -829,7 +943,8 @@
 						"name": "Xonotic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This is for the default xonotic setup."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-pterodactyl-xonotic.json",
 					"readme": ""
@@ -844,7 +959,8 @@
 						"name": "7 Days To Die",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "7 days to die server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/7_days_to_die/egg-pterodactyl-7-days-to-die.json",
 					"readme": ""
@@ -854,7 +970,8 @@
 						"name": "Abiotic Factor",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-pterodactyl-abiotic-factor.json",
 					"readme": ""
@@ -864,7 +981,8 @@
 						"name": "ARK: Survival Ascended",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame \u0026 breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-pterodactyl-a-r-k--survival-ascended.json",
 					"readme": ""
@@ -874,7 +992,8 @@
 						"name": "Ark: Survival Evolved",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "As a man or woman stranded, naked, freezing, and starving on the unforgiving shores of a mysterious island called ARK, use your skill and cunning to kill or tame and ride the plethora of leviathan dinosaurs and other primeval creatures roaming the land. Hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements and store valuables, all while teaming up with (or preying upon) hundreds of other players to survive, dominate... and escape! — Gamepedia: ARK"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_evolved/egg-pterodactyl-ark--survival-evolved.json",
 					"readme": ""
@@ -884,7 +1003,8 @@
 						"name": "Arma 3",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC's premier military game. Authentic, diverse, open - Arma 3 sends you to war."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma3/egg-pterodactyl-arma3.json",
 					"readme": ""
@@ -894,7 +1014,8 @@
 						"name": "Arma Reforger",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Experience authentic Cold War combat and join friends in the struggle for a sprawling, 51 km² mid-Atlantic island — or take on the role of Game Master and create your very own scenarios for others to enjoy."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/arma/arma_reforger/egg-pterodactyl-arma-reforger.json",
 					"readme": ""
@@ -904,7 +1025,8 @@
 						"name": "Assetto Corsa (Freeroam + AI)",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Custom Assetto Corsa server with focus on freeroam"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa--freeroam--a-i.json",
 					"readme": ""
@@ -914,7 +1036,8 @@
 						"name": "Assetto Corsa",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Assetto Corsa (Italian for \"Race Setup\") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/assetto_corsa/egg-pterodactyl-assetto-corsa.json",
 					"readme": ""
@@ -924,7 +1047,8 @@
 						"name": "Astro Colony",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astro_colony/egg-pterodactyl-astro-colony.json",
 					"readme": ""
@@ -934,7 +1058,8 @@
 						"name": "Astroneer Dedicated Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A game of aerospace industry and interplanetary exploration."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/astroneer/egg-pterodactyl-astroneer-dedicated-server.json",
 					"readme": ""
@@ -944,7 +1069,8 @@
 						"name": "Avorion",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/avorion/egg-pterodactyl-avorion.json",
 					"readme": ""
@@ -954,7 +1080,8 @@
 						"name": "Barotrauma",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Barotrauma is a 2D co-op survival horror submarine simulator, inspired by games like FTL: Faster Than Light, Rimworld, Dwarf Fortress and Space Station 13. It’s a Sci-Fi game that combines ragdoll physics and alien sea monsters with teamwork and existential fear."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/barotrauma/egg-pterodactyl-barotrauma.json",
 					"readme": ""
@@ -964,7 +1091,8 @@
 						"name": "BATTALION: Legacy",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "BATTALION: Legacy recaptures the core of classic shooters in the final iteration of Battalion 1944. Return to the simple days of playing first person shooters with your friends. Grab your bolt action rifle in 'rifles only' mode or compete in 5v5 Search and Destroy."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/battalion_legacy/egg-pterodactyl-b-a-t-t-a-l-i-o-n--legacy.json",
 					"readme": ""
@@ -974,9 +1102,21 @@
 						"name": "Black Mesa",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Black Mesa is a 2020 first-person shooter game. It is a third-party remake of Half-Life (1998) made in the Source game engine."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/black_mesa/egg-pterodactyl-black-mesa.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Brickadia",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Brickadia is a new multiplayer brick building sandbox game that gives you all the tools to create and play, your way. Build and invent with your friends, drive a car through space, create your own interactive experiences, or blow it all to smithereens!"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/brickadia/pterodactyl-egg-brickadia.json",
 					"readme": ""
 				},
 				{
@@ -984,7 +1124,8 @@
 						"name": "Citadel: Forged with Fire",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Citadel: Forged With Fire is a massive online sandbox RPG set in the mystical world of Ignus. Featuring magic, spellcasting, building, exploring and crafting as you fight to make a name for yourself and achieve notoriety across the land."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/citadel/egg-pterodactyl-citadel--forged-with-fire.json",
 					"readme": ""
@@ -994,7 +1135,8 @@
 						"name": "Colony Survival",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/colony_survival/egg-pterodactyl-colony-survival.json",
 					"readme": ""
@@ -1004,7 +1146,8 @@
 						"name": "Conan Exiles",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-pterodactyl-conan-exiles.json",
 					"readme": ""
@@ -1014,7 +1157,8 @@
 						"name": "Core Keeper",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Core Keeper is a survival sandbox game for single or multiplayers.  --- Drawn towards a mysterious relic, you are an explorer who awakens in an ancient cavern of creatures, resources and trinkets. Trapped deep underground will your survival skills be up to the task? Mine relics and resources to build your base, craft new equipment, survive, and power up the Core. ---"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/core_keeper/egg-pterodactyl-core-keeper.json",
 					"readme": ""
@@ -1024,7 +1168,8 @@
 						"name": "Counter-Strike 2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-pterodactyl-counter--strike2.json",
 					"readme": ""
@@ -1034,7 +1179,8 @@
 						"name": "Counter-Strike: Source",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-pterodactyl-counter--strike--source.json",
 					"readme": ""
@@ -1044,7 +1190,8 @@
 						"name": "Craftopia",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-pterodactyl-craftopia.json",
 					"readme": ""
@@ -1054,9 +1201,21 @@
 						"name": "CryoFall",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "NOTE: For now you have to change SettingsServer.xml under CryoFall_Server_v(Version)_NetCore/Data/SettingsServer.xml  CryoFall is a sci-fi multiplayer colony simulation survival game set on a forgotten planet in a distant future.  Join the vast world of CryoFall together with other survivors to rebuild your civilization from scratch. Start with primitive technology and simple tools and use them to progress towards modern industrial might and even beyond, eventually reaching space-age technology only seen in science fiction.  CryoFall can be played either as a relaxed PvE experience with no competition or as a brutal and unforgiving PvP. Make your choice and join one of many available servers with different game modes or host your own and invite your friends to join you!  Build your house or a large base together with other players. Dig wells and create farms to sustain basic needs. Build vehicles to explore the world faster. Establish basics of science, all the way from medicine and chemistry to fuel creation and even lithium extraction to create electronic devices. Cook food or prepare drinks to sell them from vending machines in your store.  Build factories to produce on an industrial scale: Weapons and defense systems, bionic implants to augment yourself, even large war machines and artillery guns to use against the biggest of opponents"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cryofall/egg-pterodactyl-cryo-fall.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Cubic Odyssey",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Adventure, creation, and survival await!Step into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cubic_odyssey/pterodactyl-egg-cubic-odyssey.json",
 					"readme": ""
 				},
 				{
@@ -1064,7 +1223,8 @@
 						"name": "DayZ",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dayz/egg-pterodactyl-day-z.json",
 					"readme": ""
@@ -1074,7 +1234,8 @@
 						"name": "DDNet",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Want to play the hardest cooperative 2D platformer ever? Want to finish no map ever? Want to be in pain for hours and cry, getting nothing in return? Come play DDNet with a large community of other sufferers!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ddnet/egg-pterodactyl-d-d-net.json",
 					"readme": ""
@@ -1084,7 +1245,8 @@
 						"name": "Dead Matter",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "After a rampant viral outbreak causes global society to collapse, you must survive the harsh wilderness of the Canadian Rockies amidst vast hordes of Infected and rival survivors."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dead_matter/egg-pterodactyl-dead-matter.json",
 					"readme": ""
@@ -1094,7 +1256,8 @@
 						"name": "Don't Starve Together",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Don’t Starve Together is an uncompromising wilderness survival game full of science and magic."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/dont_starve/egg-pterodactyl-don-t-starve-together.json",
 					"readme": ""
@@ -1104,7 +1267,8 @@
 						"name": "Eco",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Eco is an online world from Strange Loop Games where players must build civilization using resources from an ecosystem that can be damaged and destroyed. The world of Eco is an incredibly reactive one, and whatever any player does in the world affects the underlying ecosystem."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/eco/egg-pterodactyl-eco.json",
 					"readme": ""
@@ -1114,7 +1278,8 @@
 						"name": "Empyrion: Galactic Survival",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Empyrion: Galactic Survival dedicated server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/empyrion/egg-pterodactyl-empyrion--galactic-survival.json",
 					"readme": ""
@@ -1124,7 +1289,8 @@
 						"name": "Enshrouded",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-pterodactyl-enshrouded.json",
 					"readme": ""
@@ -1134,7 +1300,8 @@
 						"name": "Fof",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Fistful of Frags"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/fof/egg-pterodactyl-fof.json",
 					"readme": ""
@@ -1144,7 +1311,8 @@
 						"name": "Foundry",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Build a factory optimized to perfection or an artistic masterpiece in an infinite voxel world. Mine and harvest resources, automate your ever-growing production lines and manage complex systems while researching your way to mechanical mastery in FOUNDRY."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/foundry/egg-pterodactyl-foundry.json",
 					"readme": ""
@@ -1154,7 +1322,8 @@
 						"name": "Frozen Flame",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Frozen Flame Dedicated Server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/frozen_flame/egg-pterodactyl-frozen-flame.json",
 					"readme": ""
@@ -1164,7 +1333,8 @@
 						"name": "Garry's Mod - Reworked",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-pterodactyl-garry-s-mod--reworked.json",
 					"readme": ""
@@ -1174,7 +1344,8 @@
 						"name": "Ground Branch",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ground_branch/egg-pterodactyl-ground-branch.json",
 					"readme": ""
@@ -1184,7 +1355,8 @@
 						"name": "Custom ReHLDS Engine Game",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel, substituting the official Valve engine binaries with the ReHLDS binaries."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/rehlds/egg-pterodactyl-custom-re-h-l-d-s-engine-game.json",
 					"readme": ""
@@ -1194,7 +1366,8 @@
 						"name": "Custom HLDS Engine Game",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This option allows modifying the startup arguments and other details to run a custom HLDS based game on the panel."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hlds_server/vanilla/egg-pterodactyl-custom-h-l-d-s-engine-game.json",
 					"readme": ""
@@ -1204,7 +1377,8 @@
 						"name": "Holdfast NaW",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Holdfast: Nations at War"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/holdfast/egg-pterodactyl-holdfast-na-w.json",
 					"readme": ""
@@ -1214,7 +1388,8 @@
 						"name": "HumanitZ",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "HumanitZ is a co-op, isometric, open world survival game in a world ended by the zombie outbreak. As one of the few human survivors, try to last as long as “humanly” possible. The past can’t be changed, but you can make a difference today for the future of humanity."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/humanitz/egg-pterodactyl-humanit-z.json",
 					"readme": ""
@@ -1224,7 +1399,8 @@
 						"name": "Hurtworld",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on deep survival progression that doesn't become trivial once you establish some basic needs. Built for hardcore gamers, Hurtworld aims to punish."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/hurtworld/egg-pterodactyl-hurtworld.json",
 					"readme": ""
@@ -1234,7 +1410,8 @@
 						"name": "Icarus-Dedicated",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Icarus is a survival game that with dedicated servers as a public beta"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/egg-pterodactyl-icarus--dedicated.json",
 					"readme": ""
@@ -1244,7 +1421,8 @@
 						"name": "Insurgency: Sandstorm",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Insurgency: Sandstorm is a team-based, tactical FPS based on lethal close quarters combat and objective-oriented multiplayer gameplay. Experience the intensity of modern combat where skill is rewarded, and teamwork wins the fight."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency_sandstorm/egg-pterodactyl-insurgency--sandstorm.json",
 					"readme": ""
@@ -1254,7 +1432,8 @@
 						"name": "Iosoccer server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "SERVER IOSOCCER"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/iosoccer/egg-pterodactyl-iosoccer-server.json",
 					"readme": ""
@@ -1264,7 +1443,8 @@
 						"name": "Killing Floor 2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "In KILLING FLOOR 2, players descend into continental Europe after it has been overrun by horrific, murderous clones called Zeds that were created by the corporation Horzine. The Zed outbreak caused by Horzine Biotech’s failed experiments has quickly spread with unstoppable momentum, paralyzing the European Union. Only a month ago, the first Zed outbreak from the original KILLING FLOOR ripped through London; now the specimen clones are everywhere."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/killing_floor_2/egg-pterodactyl-killing-floor2.json",
 					"readme": ""
@@ -1274,7 +1454,8 @@
 						"name": "Left 4 Dead",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "An outbreak of a highly contagious pathogen nicknamed the \"Green Flu\" begins in Pennsylvania. Two weeks after the first infection, four immune survivors, Bill, Zoey, Louis, and Francis make their way out of the city of Fairfield, only to discover that the infection is creating dangerous mutations in some of its hosts."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead/egg-pterodactyl-left4-dead.json",
 					"readme": ""
@@ -1284,7 +1465,8 @@
 						"name": "Left 4 Dead 2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Left 4 Dead 2 is set in the aftermath of a worldwide pandemic of a disease nicknamed the \"Green Flu\", which rapidly transforms humans into zombie-like creatures and mutated forms that demonstrate extreme aggression towards non-infected beings. A few humans are immune to the disease, while some of those who are infected have no symptoms. The Civil Emergency and Defense Agency (CEDA) and the U.S. military create safe zones to attempt to evacuate as many survivors as possible."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/left4dead_2/egg-pterodactyl-left4-dead2.json",
 					"readme": ""
@@ -1294,7 +1476,8 @@
 						"name": "Longvinter",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Longvinter is a multiplayer, third-person sandbox game that implements Crafting, Farming, Building, Trading, and PVP."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/longvinter/egg-pterodactyl-longvinter.json",
 					"readme": ""
@@ -1304,7 +1487,8 @@
 						"name": "The Lord of the Rings: Return to Moria",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The only survival crafting game set in the Fourth Age of Middle-earth™. Embark on an epic journey to reclaim the Dwarven homeland of Moria, and explore, craft, and build in procedurally generated worlds. Play as a solo adventurer, or join friends in co-op gameplay for up to 8 players."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/lotr_moria/egg-pterodactyl-lotr-return-to-moria.json",
 					"readme": ""
@@ -1314,7 +1498,8 @@
 						"name": "Midnight Ghost Hunt",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! "
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
 					"readme": ""
@@ -1324,7 +1509,8 @@
 						"name": "Modiverse",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Modiverse provides a sandbox environment with the ability to create and play mods such as TTT, Deathrun, FortWars, RP, and more! Use the many sandbox tools to build complex worlds with props, lights, thrusters, wheels, and much much more!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/modiverse/egg-pterodactyl-modiverse.json",
 					"readme": ""
@@ -1334,7 +1520,8 @@
 						"name": "Mordhau Wine",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau-wine.json",
 					"readme": ""
@@ -1344,7 +1531,8 @@
 						"name": "Mordhau",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Mordhau is a multiplayer medieval hack 'n slash video game, developed by Slovenian independent studio Triternion, with a prominent aspect of skill-based competitive play and customization."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mordhau/egg-pterodactyl-mordhau.json",
 					"readme": ""
@@ -1354,7 +1542,8 @@
 						"name": "Mount \u0026 Blade II: Bannerlord",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/mount_blade_II_bannerlord/egg-pterodactyl-mount--blade-i-i--bannerlord.json",
 					"readme": ""
@@ -1364,7 +1553,8 @@
 						"name": "Myth of Empires",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Myth of Empires is a multiplayer war sandbox game featuring a high degree of freedom. Players must survive, craft, create, and lead troops in their quest to conquer territory and build their own empire."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/myth_of_empires/egg-pterodactyl-myth-of-empires.json",
 					"readme": ""
@@ -1374,7 +1564,8 @@
 						"name": "Necesse",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/necesse/egg-pterodactyl-necesse.json",
 					"readme": ""
@@ -1384,7 +1575,8 @@
 						"name": "NeosVR",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Neos VR is a metaverse engineered for the unknown! It’s one of the most versatile and feature rich metaverses for virtual reality, designed so everybody can find something interesting or useful to do in a social setting."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/neosvr/egg-pterodactyl-neos-v-r.json",
 					"readme": ""
@@ -1394,9 +1586,21 @@
 						"name": "Night Of The Dead",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Build defenses against nightly waves of zombies. Survive and escape the island."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/night_of_the_dead/egg-pterodactyl-night-of-the-dead.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Nightingale",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Nightingale is an open world survival crafting game, where you’ll adventure across the mysterious and dangerous Fae Realms. As a daring Realmwalker, you’ll defeat monstrous enemies, survive hostile environments, and build elaborate estates in a visually stunning Gaslamp Fantasy world. "
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nightingale/pterodactyl-egg-nightingale.json",
 					"readme": ""
 				},
 				{
@@ -1404,7 +1608,8 @@
 						"name": "nmrih",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "No More Room In Hell"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/nmrih/egg-pterodactyl-nmrih.json",
 					"readme": ""
@@ -1414,7 +1619,8 @@
 						"name": "No Love Lost",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Grab your ragtag crew \u0026 take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-pterodactyl-no-love-lost.json",
 					"readme": ""
@@ -1424,7 +1630,8 @@
 						"name": "No One Survived",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This is a multiplayer cooperative open world construction survival sandbox game, where you and your friends must find supplies and build shelters in this world. You have to keep an eye on your character's needs state at all times, a bad state is likely to lead to death."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_one_survived/egg-pterodactyl-no-one-survived.json",
 					"readme": ""
@@ -1434,7 +1641,8 @@
 						"name": "Nova-Life: Amboise",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Nova-Life: Amboise is a multiplayer role-play simulation video game. Create your character and start your second life!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/novalife_amboise/egg-pterodactyl-nova--life--amboise.json",
 					"readme": ""
@@ -1444,7 +1652,8 @@
 						"name": "Onset",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Onset is an open world multiplayer sandbox without predefined goals. Create and host your very own experience in Onset using scripting functions. Whether that is Roleplay, Cops and Robbers or classic Freeroam. Or just enjoy the different gamemodes created by other players."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/onset/egg-pterodactyl-onset.json",
 					"readme": ""
@@ -1454,7 +1663,8 @@
 						"name": "Open Fortress",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Open Fortress is a free Team Fortress 2 mod that introduces new gamemodes, weapons, characters, maps, and more to the world of TF2."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/open_fortress/egg-pterodactyl-open-fortress.json",
 					"readme": ""
@@ -1464,7 +1674,8 @@
 						"name": "Operation Harsh Doorstop",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Operation: Harsh Doorstop is an Unreal Engine powered shooter sandbox similar to mod-friendly games like Ravenfield and Garry's Mod but with roots in tactical shooters like Squad and Arma III. Our game is entirely donation funded, completely free, and has full Steam workshop support!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/operation_harsh_doorstop/egg-pterodactyl-operation-harsh-doorstop.json",
 					"readme": ""
@@ -1474,7 +1685,8 @@
 						"name": "Palworld Proton",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld-proton.json",
 					"readme": ""
@@ -1484,7 +1696,8 @@
 						"name": "Palworld",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/palworld/egg-pterodactyl-palworld.json",
 					"readme": ""
@@ -1494,7 +1707,8 @@
 						"name": "Pavlov VR",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Pavlov VR is a multiplayer shooter in VR with heavy focus on community features. Realistic reloading features and fast paced combat as part of the core experience. Play the #1 most popular VR shooter on PC today."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pavlov_vr/egg-pterodactyl-pavlov-v-r.json",
 					"readme": ""
@@ -1504,7 +1718,8 @@
 						"name": "PixARK",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pterodactyl-pix-a-r-k.json",
 					"readme": ""
@@ -1514,7 +1729,8 @@
 						"name": "Portal Knights",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/portal_knights/egg-pterodactyl-portal-knights.json",
 					"readme": ""
@@ -1524,7 +1740,8 @@
 						"name": "Post Scriptum",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Post Scriptum is a WW2-themed first-person tactical shooter that provides an authentic WWII combat experience. Focusing on historical accuracy, large-scale battles, and a challenging battlefield demands an intense need for cohesion, communication, and teamwork."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/post_scriptum/egg-pterodactyl-post-scriptum.json",
 					"readme": ""
@@ -1534,7 +1751,8 @@
 						"name": "Project Zomboid",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Project Zomboid is an open world survival horror video game in alpha stage development by British and Canadian independent developer, The Indie Stone. The game is set in a post apocalyptic, zombie infested world where the player is challenged to survive for as long as possible before inevitably dying."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/project_zomboid/egg-pterodactyl-project-zomboid.json",
 					"readme": ""
@@ -1544,7 +1762,8 @@
 						"name": "QANGA",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "QANGA: Dive into a sci-fi adventure of exploration and resilience across the cosmos. Merge your mind with a state-of-the-art cyborg crafted by ICLab's Industry labs, and journey through this expansive universe! "
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/qanga/egg-pterodactyl-q-a-n-g-a.json",
 					"readme": ""
@@ -1554,7 +1773,8 @@
 						"name": "Quake Live",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Quake Live is a first-person shooter video game by id Software. It is an updated version of Quake III Arena that was originally designed as a free-to-play game launched via a web browser plug-in. On September 17, 2014, the game was re-launched as a standalone title on Steam."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/quake_live/egg-pterodactyl-quake-live.json",
 					"readme": ""
@@ -1564,7 +1784,8 @@
 						"name": "Resonite",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Enter a novel digital universe with infinite possibilities. Whether you resonate with people around the world in a casual conversation, playing games and socializing or you riff off each other when creating anything from art to programming complex games, you'll find your place here."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/resonite/egg-pterodactyl-resonite.json",
 					"readme": ""
@@ -1574,7 +1795,8 @@
 						"name": "Rising World Java Legacy",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/legacy/egg-pterodactyl-rising-world-java-legacy.json",
 					"readme": ""
@@ -1584,7 +1806,8 @@
 						"name": "Rising World Unity",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rising_world/unity/egg-pterodactyl-rising-world-unity.json",
 					"readme": ""
@@ -1594,7 +1817,8 @@
 						"name": "Risk of Rain 2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Risk of Rain 2 dedicated server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/risk_of_rain_2/egg-pterodactyl-risk-of-rain2.json",
 					"readme": ""
@@ -1604,7 +1828,8 @@
 						"name": "Rust Autowipe",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_autowipe/egg-pterodactyl-rust-autowipe.json",
 					"readme": ""
@@ -1614,7 +1839,8 @@
 						"name": "Rust Staging",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
 					"readme": ""
@@ -1624,7 +1850,8 @@
 						"name": "Satisfactory",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/satisfactory/egg-pterodactyl-satisfactory.json",
 					"readme": ""
@@ -1634,7 +1861,8 @@
 						"name": "SCP:SL",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Egg for SCP: Secret Laboratory Dedicated Linux Server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/dedicated/egg-pterodactyl-s-c-p--s-l.json",
 					"readme": ""
@@ -1644,7 +1872,8 @@
 						"name": "SCP:SL - Exiled",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-pterodactyl-s-c-p--s-l--exiled.json",
 					"readme": ""
@@ -1654,7 +1883,8 @@
 						"name": "Smalland: Survive the Wilds",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small \u0026 at the bottom of the food chain. Craft weapons \u0026 armour, tame \u0026 ride creatures, build encampments \u0026 explore a strange new land.  Steam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-pterodactyl-smalland--survive-the-wilds.json",
 					"readme": ""
@@ -1664,7 +1894,8 @@
 						"name": "Solace Crafting",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Open-world fantasy survival RPG. Borderless distance-based difficulty with player built fast-travel, modular-building, and town management."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/solace_crafting/egg-pterodactyl-solace-crafting.json",
 					"readme": ""
@@ -1674,7 +1905,8 @@
 						"name": "Soldat",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Soldat is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.  Steam: https://store.steampowered.com/app/638490/Soldat/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soldat/egg-pterodactyl-soldat.json",
 					"readme": ""
@@ -1684,7 +1916,8 @@
 						"name": "Sons Of The Forest",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Sons of the Forest is a horror survival game and sequel to The Forest by Endnight Games, Ltd.. Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sonsoftheforest/egg-pterodactyl-sons-of-the-forest.json",
 					"readme": ""
@@ -1694,7 +1927,8 @@
 						"name": "Soulmask",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Escaping a deadly sacrificial ritual, you find an ancient mystical mask on your journey. This mask holds potent knowledge, changing the world you knew. Face the harsh challenges of nature, survive, rally followers, and build your own tribe. Explore and unveil the truths behind the enigmatic mask."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-pterodactyl-soulmask.json",
 					"readme": ""
@@ -1704,7 +1938,8 @@
 						"name": "SourceCoop",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "SourceCoop is a cooperative server-side-only mod for multi-player Source Engine games (like Black Mesa), that enables players to play together on single-player campaigns or maps. This Egg currently supports official Black Mesa maps only, but can be easily modified to support more (see Egg README for details)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/sourcecoop/egg-pterodactyl-source-coop.json",
 					"readme": ""
@@ -1714,7 +1949,8 @@
 						"name": "Space Engineers",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Space Engineers is a voxel-based sandbox game set in space and on planets."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/default/egg-pterodactyl-space-engineers.json",
 					"readme": ""
@@ -1724,7 +1960,8 @@
 						"name": "Space Engineers - Torch Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.  !!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-pterodactyl-space-engineers--torch-server.json",
 					"readme": ""
@@ -1734,7 +1971,8 @@
 						"name": "Squad",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking \u0026 radio."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-pterodactyl-squad.json",
 					"readme": ""
@@ -1744,7 +1982,8 @@
 						"name": "Starbound",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Starbound takes place in a two-dimensional, procedurally generated universe which the player is able to explore in order to obtain new weapons, armor, and items, and to visit towns and villages inhabited by various intelligent lifeforms."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/starbound/egg-pterodactyl-starbound.json",
 					"readme": ""
@@ -1754,7 +1993,8 @@
 						"name": "Stationeers (BepInEx)",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Stationeers Server with very basic BepInEx support"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_bepinex/egg-pterodactyl-stationeers--bep-in-ex.json",
 					"readme": ""
@@ -1764,7 +2004,8 @@
 						"name": "Stationeers",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Stationeers Server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stationeers/stationeers_vanilla/egg-pterodactyl-stationeers.json",
 					"readme": ""
@@ -1774,7 +2015,8 @@
 						"name": "Stormworks: Build and Rescue",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Join a world where you design, create and pilot your own air sea rescue service. Release your inner hero as you battle fierce storms out at sea to rescue those in need."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/stormworks/egg-pterodactyl-stormworks--build-and-rescue.json",
 					"readme": ""
@@ -1784,7 +2026,8 @@
 						"name": "Subnautica",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Subnautica is an open world survival action-adventure video game developed and published by Unknown Worlds Entertainment. In it, players are free to explore the ocean on an alien planet, known as planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface.  Note: NitroxMod version \u003e=1.7.0.0 is required"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-pterodactyl-subnautica.json",
 					"readme": ""
@@ -1794,7 +2037,8 @@
 						"name": "Sven Co-op",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Sven Co-op is a co-operative game originally based around Valve Software's Half-Life. In this game players must work together against computer controlled enemies and solve puzzles as a team."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/svencoop/egg-pterodactyl-sven-co-op.json",
 					"readme": ""
@@ -1804,7 +2048,8 @@
 						"name": "Swords 'n Magic and Stuff",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-pterodactyl-swords-n-magic-and-stuff.json",
 					"readme": ""
@@ -1814,7 +2059,8 @@
 						"name": "Team Fortress 2 Classic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Team Fortress 2 Classic is a free mod of the 2007 game Team Fortress 2, developed by Eminoma and utilizing the Source engine."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2_classic/egg-pterodactyl-team-fortress2-classic.json",
 					"readme": ""
@@ -1824,9 +2070,21 @@
 						"name": "TerraTech Worlds",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "TerraTech Worlds"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/terratech_worlds/egg-pterodactyl-terra-tech-worlds.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "The Bus",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The Bus is the next generation of city bus driving simulation. Sell tickets and transport passengers with various buses on different lines across the German capital Berlin on a realistic scale of 1:1. "
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_bus/pterodactyl-egg-the-bus.json",
 					"readme": ""
 				},
 				{
@@ -1834,7 +2092,8 @@
 						"name": "The Forest",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first-person survival horror simulator."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_forest/egg-pterodactyl-the-forest.json",
 					"readme": ""
@@ -1844,9 +2103,21 @@
 						"name": "The Isle",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-pterodactyl-the-isle.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "The Isle",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/pterodactyl-egg-the-isle.json",
 					"readme": ""
 				},
 				{
@@ -1854,7 +2125,8 @@
 						"name": "The Front",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Front is a survival open-world crafting shooter. You play the role of a resistance fighter sent back in time to stop the rise of a tyrannical empire."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/thefront/egg-pterodactyl-the-front.json",
 					"readme": ""
@@ -1864,7 +2136,8 @@
 						"name": "Tower Unite",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "PLAY, CREATE, PARTY! Tower Unite is a community-based virtual world party game with online games, entertainment, activities, and absolutely NO microtransactions."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/tower_unite/egg-pterodactyl-tower-unite.json",
 					"readme": ""
@@ -1874,7 +2147,8 @@
 						"name": "American Truck Simulator Dedicated Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This will set up SteamCMD and all the required files for the newly released American Truck Simulator Dedicated server.  Simply placed the exported server config from your ATS instance to the .local/share/American Truck Simulator/ folder and select start.  Make sure that auto start is off on server creation to allow you to upload your config files."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/american-truck-simulator/egg-pterodactyl-american-truck-simulator-dedicated-server.json",
 					"readme": ""
@@ -1884,7 +2158,8 @@
 						"name": "Euro Truck Simulator 2 Dedicated server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/truck-simulator/euro-truck-simulator2/egg-pterodactyl-euro-truck-simulator2-dedicated-server.json",
 					"readme": ""
@@ -1894,7 +2169,8 @@
 						"name": "Unturned",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Vanilla Unturned with the included RockerMod."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/unturned/egg-pterodactyl-unturned.json",
 					"readme": ""
@@ -1904,7 +2180,8 @@
 						"name": "V Rising BepInEx",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_bepinex/egg-pterodactyl-v-rising-bep-in-ex.json",
 					"readme": ""
@@ -1914,17 +2191,19 @@
 						"name": "V Rising",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/v_rising/v_rising_vanilla/egg-pterodactyl-v-rising.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Valheim  BepINex",
+						"name": "Valheim BepINex",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-pterodactyl-valheim-bep-i-nex.json",
 					"readme": ""
@@ -1934,7 +2213,8 @@
 						"name": "Valheim Plus Mod",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_plus/egg-pterodactyl-valheim-plus-mod.json",
 					"readme": ""
@@ -1944,7 +2224,8 @@
 						"name": "Valheim",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_vanilla/egg-pterodactyl-valheim.json",
 					"readme": ""
@@ -1954,9 +2235,32 @@
 						"name": "VEIN",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "VEIN is a post-apocalyptic survival multiplayer sandbox game. Gather supplies to survive, explore abandoned buildings, combat bandits, defend your home, assist friendly NPCs, and rebuild society with friends."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/vein/egg-pterodactyl-v-e-i-n.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Voyagers of Nera",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": " Voyagers of Nera is a cooperative survival-crafting game where you must survive a magical ocean world brimming with lost spirits and deadly monsters. Sail to distant islands, build beautiful villages and surf across the waves with up to 10 players. "
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/voyagers_of_nera/pterodactyl-egg-voyagers-of-nera.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Wreckfest",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wreckfest/pterodactyl-egg-wreckfest.json",
 					"readme": ""
 				},
 				{
@@ -1964,7 +2268,8 @@
 						"name": "Wurm Unlimited",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Wurm Unlimited is the standalone version of the fantasy sandbox world Wurm Online, the MMORPG where the players are in charge! A pioneer in the ideas of player influence, crafting and adventure, it is now one of the most deep and feature packed true sandbox experiences available."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wurm_unlimited/egg-pterodactyl-wurm-unlimited.json",
 					"readme": ""
@@ -1974,7 +2279,8 @@
 						"name": "Zombie Survival Game Online",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Zombie Survival Game Online is an open-world, post-apocalyptic, looter shooter. We aim to deliver a survival community experience that will entertain for years to come, utilizing a heavy passion for the genre \u0026 the years spent honing our development skills. Can you survive? Craft your story today!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/zombie_survival_game_online/egg-pterodactyl-zombie-survival-game-online.json",
 					"readme": ""
@@ -1989,7 +2295,8 @@
 						"name": "Bun",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-pterodactyl-bun.json",
 					"readme": ""
@@ -1999,9 +2306,10 @@
 						"name": "Generic C#",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c%23/egg-pterodactyl-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json",
 					"readme": ""
 				},
 				{
@@ -2009,7 +2317,8 @@
 						"name": "dart generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic dart CLI egg.  This will clone a dart CLI application. it defaults to master if no branch is specified.  Installs the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-pterodactyl-dart-generic.json",
 					"readme": ""
@@ -2019,7 +2328,8 @@
 						"name": "Deno Generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic egg to run deno code."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-pterodactyl-deno-generic.json",
 					"readme": ""
@@ -2029,7 +2339,8 @@
 						"name": "Elixir",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-pterodactyl-elixir.json",
 					"readme": ""
@@ -2039,7 +2350,8 @@
 						"name": "golang generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic golang egg that compiles the application and saves an executable  Meant to be customized before it is used."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-pterodactyl-golang-generic.json",
 					"readme": ""
@@ -2049,7 +2361,8 @@
 						"name": "Generic Java",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Creates a container that runs java."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-pterodactyl-generic-java.json",
 					"readme": ""
@@ -2059,7 +2372,8 @@
 						"name": "luvit generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic luvit egg This will clone a git repo. It defaults to master if no branch is specified.  Supports the discordia lua framework."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-pterodactyl-luvit-generic.json",
 					"readme": ""
@@ -2069,7 +2383,8 @@
 						"name": "node.js generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "a generic node.js egg  This will clone a git repo. it defaults to master if no branch is specified.  Installs the node_modules on install. If you set user_upload then I assume you know what you are doing."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/egg-pterodactyl-node-js-generic.json",
 					"readme": ""
@@ -2079,7 +2394,8 @@
 						"name": "nodemon",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected  This will clone a git repo for a bot. it defaults to master if no branch is specified.  Installs the node_modules on install. If you set user_upload, then I assume you know what you are doing."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-pterodactyl-nodemon.json",
 					"readme": ""
@@ -2089,7 +2405,8 @@
 						"name": "python generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A Generic Python Egg for Pelican \u0026 PterodactylTested with: https://github.com/Ispira/pixel-bot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-pterodactyl-python-generic.json",
 					"readme": ""
@@ -2099,7 +2416,8 @@
 						"name": "rust generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Creates a container that runs rust with cargo."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-pterodactyl-rust-generic.json",
 					"readme": ""
@@ -2114,7 +2432,8 @@
 						"name": "Liteloader Bedrock Dedicated Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "LiteLoaderBDS - Epoch-making \u0026 Cross-language Bedrock Dedicated Servers Plugin Loader  LiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/LiteLoader-bedrock/egg-pterodactyl-liteloader-bedrock-dedicated-server.json",
 					"readme": ""
@@ -2124,7 +2443,8 @@
 						"name": "PowerNukkitX",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "PowerNukkitX support for Pterodactyl"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/PowerNukkitX/egg-pterodactyl-power-nukkit-x.json",
 					"readme": ""
@@ -2134,7 +2454,8 @@
 						"name": "Vanilla Bedrock ARM64",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\"."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock-a-r-m64.json",
 					"readme": ""
@@ -2144,7 +2465,8 @@
 						"name": "Vanilla Bedrock",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Bedrock Edition (also known as the Bedrock Version, Bedrock Codebase, Bedrock Engine or just Bedrock) refers to the multi-platform family of editions of Minecraft developed by Mojang AB, Microsoft Studios, 4J Studios, and SkyBox Labs. Prior to this term, as the engine originated with Pocket Edition, this entire product family was referred to as \"Pocket Edition\", \"MCPE\", or \"Pocket/Windows 10 Edition\"."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/bedrock/egg-pterodactyl-vanilla-bedrock.json",
 					"readme": ""
@@ -2154,7 +2476,8 @@
 						"name": "GoMint",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A performant and stable Minecraft server software for the Bedrock Edition that comes with a modern API and support for Java 11 LTS."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/gomint/egg-pterodactyl-go-mint.json",
 					"readme": ""
@@ -2164,7 +2487,8 @@
 						"name": "Nukkit",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition  https://cloudburstmc.org"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/nukkit/egg-pterodactyl-nukkit.json",
 					"readme": ""
@@ -2174,7 +2498,8 @@
 						"name": "PocketmineMP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Pocketmine Egg by onekintaro from swisscrafting.ch with the nice help from #eggs Channel on Pelican Discord :)"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/pocketmine_mp/egg-pterodactyl-pocketmine-m-p.json",
 					"readme": ""
@@ -2184,7 +2509,8 @@
 						"name": "Purpur-Geyser-Floodgate",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features, with the addition of GeyserMC and Floodgate"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/crossplay/purpur-geysermc-floodgate/egg-pterodactyl-purpur--geyser--floodgate.json",
 					"readme": ""
@@ -2194,7 +2520,8 @@
 						"name": "Cuberite",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A lightweight, fast and extensible game server for Minecraft"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/cuberite/egg-pterodactyl-cuberite.json",
 					"readme": ""
@@ -2204,7 +2531,8 @@
 						"name": "CurseForge Generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic egg for a CurseForge modpack."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-pterodactyl-curse-forge-generic.json",
 					"readme": ""
@@ -2214,7 +2542,8 @@
 						"name": "Fabric",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Fabric is a modular modding toolchain targeting Minecraft 1.14 and above, including snapshots."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-pterodactyl-fabric.json",
 					"readme": ""
@@ -2224,19 +2553,32 @@
 						"name": "Folia",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Fork of Paper which adds regionised multithreading to the dedicated server."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-pterodactyl-folia.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Forge Enhanced",
+						"name": "Forge Minecraft",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), whichmakes it easier to create mods, and also make sure mods are compatible with each other."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/forge/egg-pterodactyl-forge-enhanced.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/pterodactyl-egg-forge-minecraft.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "FTB Server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "This egg was developed to easily set up a server from FTB."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/egg-pterodactyl-f-t-b-server.json",
 					"readme": ""
 				},
 				{
@@ -2244,9 +2586,10 @@
 						"name": "FTB-modpacks.ch Server",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Since the release of the FTB APP, FTB modpacks are now distributed through modpacks.ch. This egg was developed for support for modpacks that are distributed through this."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/egg-pterodactyl-f-t-b-modpacks-ch-server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-f-t-b-modpacks-ch-server.json",
 					"readme": ""
 				},
 				{
@@ -2254,7 +2597,8 @@
 						"name": "FTB Revelation",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Revelation is a general all-purpose pack that is designed for solo play as well as small and medium population servers. This pack contains a mix of magic, tech and exploration mods, and is the largest pack ever built and released by the Feed The Beast Team."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-f-t-b-revelation.json",
 					"readme": ""
@@ -2264,7 +2608,8 @@
 						"name": "Feed the Beast",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Egg to handle all official FTB Modpacks"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ftb/outdated/egg-pterodactyl-feed-the-beast.json",
 					"readme": ""
@@ -2274,7 +2619,8 @@
 						"name": "Glowstone",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Glowstone is an open-source server implementation for Minecraft: Java Edition 1.12.2 and up."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/glowstone/egg-pterodactyl-glowstone.json",
 					"readme": ""
@@ -2284,7 +2630,8 @@
 						"name": "Ketting",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Magma successor for 1.20- with plugins and mods."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/ketting/egg-pterodactyl-ketting.json",
 					"readme": ""
@@ -2294,7 +2641,8 @@
 						"name": "Krypton",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A fast, lightweight Minecraft server written in Kotlin"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/krypton/egg-pterodactyl-krypton.json",
 					"readme": ""
@@ -2304,7 +2652,8 @@
 						"name": "Limbo",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Standalone server program Limbo."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/limbo/egg-pterodactyl-limbo.json",
 					"readme": ""
@@ -2314,7 +2663,8 @@
 						"name": "Magma",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Magma is most powerful Forge server providing you with Forge mods and Bukkit Plugins using Spigot and Paper for Performance Optimization and Stability. Using: https://github.com/magmamaintained"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/magma/egg-pterodactyl-magma.json",
 					"readme": ""
@@ -2324,7 +2674,8 @@
 						"name": "Modrinth Generic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A generic egg for a Modrinth modpack."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/modrinth/egg-pterodactyl-modrinth-generic.json",
 					"readme": ""
@@ -2334,7 +2685,8 @@
 						"name": "MohistMC",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Spigot fork with performance optimizations."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-pterodactyl-mohist.json",
 					"readme": ""
@@ -2344,7 +2696,8 @@
 						"name": "NanoLimbo",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This is lightweight minecraft limbo server, written on Java with Netty. The main goal of the project is maximum simplicity with a minimum number of sent and processed packets. This limbo is empty, there are no ability to set schematic building since this is not necessary. You can send useful information in chat or BossBar.  No plugins, no logs. The server is fully clear. It only able keep a lot of players while the main server is down."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/nanolimbo/egg-pterodactyl-nano-limbo.json",
 					"readme": ""
@@ -2354,7 +2707,8 @@
 						"name": "NeoForge",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "NeoForge Server. NeoForge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other. NeoForge is a fork of Minecraft Forge."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/neoforge/egg-pterodactyl-neo-forge.json",
 					"readme": ""
@@ -2364,9 +2718,10 @@
 						"name": "Paper",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/paper/egg-pterodactyl-paper.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/paper/pterodactyl-egg-paper.json",
 					"readme": ""
 				},
 				{
@@ -2374,7 +2729,8 @@
 						"name": "Purpur",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-pterodactyl-purpur.json",
 					"readme": ""
@@ -2384,7 +2740,8 @@
 						"name": "Quilt",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-pterodactyl-quilt.json",
 					"readme": ""
@@ -2394,7 +2751,8 @@
 						"name": "Spigot",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-pterodactyl-spigot.json",
 					"readme": ""
@@ -2404,17 +2762,19 @@
 						"name": "SpongeForge",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A community-driven open source Minecraft: Java Edition modding platform."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongeforge/egg-pterodactyl-sponge-forge.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "SpongeVanilla",
+						"name": "Sponge",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A community-driven open source Minecraft: Java Edition modding platform."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spongevanilla/egg-pterodactyl-sponge-vanilla.json",
 					"readme": ""
@@ -2424,7 +2784,8 @@
 						"name": "Tekkit",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Tekkit is set to reignite the same sort of wonder and awe that we all received from booting up Minecraft for the first time. With the skies open, the moon ready to be colonized (by force if need be) and dimensional mysteries to be plied, with tesseracts to be networked, “meat” to be processed, items to be digitized, and power suits to be manufactured, there is virtually limitless engineering projects to be assembled."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit/egg-pterodactyl-tekkit.json",
 					"readme": ""
@@ -2434,7 +2795,8 @@
 						"name": "Tekkit 2",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Those of you who are nostalgic for the early days of Tekkit (now known as Tekkit Classic), will love what awaits you in Tekkit 2!  With a collection of nostalgic mods and plenty of new improvements, Tekkit 2 is sure to capture the feeling of possibility and consequence that you felt while exploring the world of machines and contraptions that made the original fun. Keep an eye out for classics such as IndustrialCraft, ProjectE (Equivalent Exchange), Project Red (RedPower) and BuildCraft, alongside additions such as Galacticraft and Tekkit Jaffa Cakes! The world is yours to bend and exploit to your will, whether through alchemy or sprawling factories and mines.  What fresh horrors will you create?"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/Tekkit-2/egg-pterodactyl-tekkit2.json",
 					"readme": ""
@@ -2444,7 +2806,8 @@
 						"name": "Attack of the B-Team",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/attack-of-the-bteam/egg-pterodactyl-attack-of-the-b--team.json",
 					"readme": ""
@@ -2454,7 +2817,8 @@
 						"name": "Blightfall",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Blightfall is a combination modpack and adventure map about surviving on an alien planet. It uses magic mods and tech mods to create a novel gameplay experience. Can you survive on a world completely covered by Thaumcraft taint?  https://www.technicpack.net/modpack/blightfall.592618"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/blightfall/egg-pterodactyl-blightfall.json",
 					"readme": ""
@@ -2464,7 +2828,8 @@
 						"name": "Hexxit",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed! Dark dungeons, towering spires, weathered ruins and musty tomes lay before you. Lay claim to riches or create your own artifacts, tame beasts and carve out your own story in endless wonder. Alone or with friends, adventure awaits in Hexxit.  Hexxit is a new collection of mods for Minecraft that put adventure above all else, in the style of old Dungeons and Dragons campaigns. Exploration is interesting, the dangers are greater and the sense of satisfaction of clearing out a dungeon is intense. The modlist is full of quality content from some very talented individuals. Be sure to head over to the donate page and show your appreciation!  https://www.technicpack.net/modpack/hexxit.552552"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/hexxit/egg-pterodactyl-hexxit.json",
 					"readme": ""
@@ -2474,7 +2839,8 @@
 						"name": "Tekkit Classic",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Created by the Technic team, Tekkit Classic is a modpack for the record breaking sandbox construction game Minecraft.  It brings together some of the best mods from the Minecraft community for automating, industrializing and powering your worlds and bundles them into one easy download!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-classic/egg-pterodactyl-tekkit-classic.json",
 					"readme": ""
@@ -2484,7 +2850,8 @@
 						"name": "Tekkit Legends",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The ancient power of Tekkits past return in this legendary pack! Wield the philosopher's stone, ride the rails, breed the bees, and much, much more! This pack will remind you of what you've always loved about Tekkit, while bringing you new mods to discover and enjoy!  https://www.technicpack.net/modpack/tekkit-legends.735902"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-legends/egg-pterodactyl-tekkit-legends.json",
 					"readme": ""
@@ -2494,7 +2861,8 @@
 						"name": "Tekkit SMP",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Tekkit SMP contains the full range of mods from Tekkit 2, plus the extra mods that were originally dropped in the transition from Technic SSP (to Technic SMP) to Tekkit, in favour of multiplayer and Bukkit support: mainly Thaumcraft, Mystcraft, and Mo' Creatures. The new Tekkit SMP expands on that with various carefully selected Thaumcraft and Mystcraft addons, alongside Mo' Creatures Extended, and smaller custom additions such as Re-Crystallized Wing. Electro-Magic Tools is another starring mod, being an addon to both Industrial Craft and Thaumcraft, combining the worlds of tech and magic."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/tekkit-smp/egg-pterodactyl-tekkit-smp.json",
 					"readme": ""
@@ -2504,7 +2872,8 @@
 						"name": "The 1.12.2 Pack",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The 1.12.2 Pack"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-12-2-pack/egg-pterodactyl-the1-12-2-pack.json",
 					"readme": ""
@@ -2514,9 +2883,21 @@
 						"name": "The 1.7.10 Pack",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The 1.7.10 Pack"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/technic/the-1-7-10-pack/egg-pterodactyl-the1-7-10-pack.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Vanilla Minecraft",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worldsand build amazing things from the simplest of homes to the grandest of castles. Play in CreativeMode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend offdangerous mobs. Do all this alone or with friends."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanilla/pterodactyl-egg-vanilla-minecraft.json",
 					"readme": ""
 				},
 				{
@@ -2524,7 +2905,8 @@
 						"name": "VanillaCord",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends.  VanillaCord adds support for BungeeCord's ip_forward setting."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanillacord/egg-pterodactyl-vanilla-cord.json",
 					"readme": ""
@@ -2534,7 +2916,8 @@
 						"name": "Waterdog PE",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Brand new proxy server for Minecraft: Bedrock Edition"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/bedrock/waterdog_pe/egg-pterodactyl-waterdog-p-e.json",
 					"readme": ""
@@ -2544,9 +2927,32 @@
 						"name": "Waterdog",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Waterdog is fork of the well-known Waterfall, which is a fork of the well-known BungeeCord, server teleportation suite."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/cross_platform/waterdog/egg-pterodactyl-waterdog.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Always Auth",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A simple proxy that sits between your server and Mojang's auth services that ensures even when they're offline, you stay online!"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/alwaysauth/egg-pterodactyl-always-auth.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Bungeecord",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "For a long time, Minecraft server owners have had a dream that encompasses a free, easy, andreliable way to connect multiple Minecraft servers together. BungeeCord is the answer to said dream.Whether you are a small server wishing to string multiple game-modes together, or the owner of theShotBow Network, BungeeCord is the ideal solution for you. With the help of BungeeCord, you will beable to unlock your community's full potential."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/bungeecord/pterodactyl-egg-bungeecord.json",
 					"readme": ""
 				},
 				{
@@ -2554,7 +2960,8 @@
 						"name": "Travertine",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Travertine is a fork of Waterfall with 1.7 protocol support. Waterfall is a fork of the well-known BungeeCord server teleportation suite."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/travertine/egg-pterodactyl-travertine.json",
 					"readme": ""
@@ -2564,7 +2971,8 @@
 						"name": "Velocity",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/velocity/egg-pterodactyl-velocity.json",
 					"readme": ""
@@ -2574,7 +2982,8 @@
 						"name": "VIAaaS",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "VIAaaS - ViaVersion as a Service - Standalone ViaVersion proxy"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaaas/egg-pterodactyl-v-i-aaa-s.json",
 					"readme": ""
@@ -2584,7 +2993,8 @@
 						"name": "ViaProxy",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "ViaProxy is a standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/viaproxy/egg-pterodactyl-via-proxy.json",
 					"readme": ""
@@ -2594,7 +3004,8 @@
 						"name": "Waterfall",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-pterodactyl-waterfall.json",
 					"readme": ""
@@ -2613,7 +3024,8 @@
 						"name": "Minio S3",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "MinIO is a cloud storage server compatible with Amazon S3, released under Apache License v2. As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container images. The maximum size of an object is 5TB."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-pterodactyl-minio-s3.json",
 					"readme": ""
@@ -2623,7 +3035,8 @@
 						"name": "SFTP Storage Share",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-pterodactyl-s-f-t-p-storage-share.json",
 					"readme": ""
@@ -2635,12 +3048,227 @@
 			"Eggs": [
 				{
 					"egg": {
+						"name": "Mumble Server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/mumble/egg-pterodactyl-mumble-server.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "TS3 Manager",
 						"meta": {
 							"version": "PTDL_v2"
-						}
+						},
+						"description": "The Open Source Webinterface For TeamSpeak Servers"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-pterodactyl-t-s3-manager.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Teamspeak6 Server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts6/pterodactyl-egg-teamspeak6-server.json",
+					"readme": ""
+				}
+			]
+		},
+		{
+			"nest_type": "Software",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "5e Tools",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A suite of tools for 5th Edition Dungeons \u0026 Dragons players and Dungeon Masters."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/5e-tools/egg-pterodactyl-5e-tools.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Code-Server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Run VS Code on any machine anywhere and access it in the browser."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/code-server/egg-pterodactyl-code--server.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Elasticsearch",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/elasticsearch/egg-pterodactyl-elasticsearch.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Folding@Home",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/foldingathome/egg-pterodactyl-folding--home.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Forgejo",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/forgejo/egg-pterodactyl-forgejo.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Gitea",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/gitea/egg-pterodactyl-gitea.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Grafana",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/grafana/egg-pterodactyl-grafana.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "haste-server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Haste is an open-source pastebin software written in node.js, which is easily installable in any network. It can be backed by either redis or filesystem, and has a very easy adapter interface for other stores. A publicly available version can be found at hastebin.com"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/haste-server/egg-pterodactyl-haste-server.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "LanguageTool",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "This egg installs a LanguageTool server  LanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.  View https://languagetool.org for more information."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/languagetool/egg-pterodactyl-language-tool.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Lavalink",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards. Description taken from https://github.com/lavalink-devs/Lavalink"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/lavalink/egg-pterodactyl-lavalink.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Meilisearch",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/meilisearch/egg-pterodactyl-meilisearch.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "owncast.online",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/owncast/egg-pterodactyl-owncast-online.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "RabbitMQ",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "RabbitMQ is a feature rich, multi-protocol messaging broker."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/rabbitmq/egg-pterodactyl-rabbit-m-q.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Rathole",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/rathole/egg-pterodactyl-rathole.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Reposilite",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/reposilite/egg-pterodactyl-reposilite.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Uptime Kuma",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/uptime-kuma/egg-pterodactyl-uptime-kuma.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Yarr",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Yarr is a selfhosted feed aggregator"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/yarr/egg-pterodactyl-yarr.json",
 					"readme": ""
 				}
 			]

@@ -127,6 +127,9 @@ params:
 
 markup:
   goldmark:
+    parser:
+      attribute:
+        block: true
     renderer:
       unsafe: true
   highlight:
@@ -136,7 +139,6 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
 # privacy:
 #   vimeo:
 #     disabled: false
