@@ -2,7 +2,7 @@
 title = 'Pelican Eggs'
 draft = false
 +++
-> # All pelican eggs can be imported directly in the pelican panel directly.
+> # All pelican eggs can be imported directly in the Pelican Panel!
 
 ## Chatbot
 | Egg | Description |
