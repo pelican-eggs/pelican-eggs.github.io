@@ -1,0 +1,52 @@
+name: update content files
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      REPO_LIST: |
+        pelican-eggs/chatbots
+        pelican-eggs/database
+        pelican-eggs/games-standalone
+        pelican-eggs/games-steamcmd
+        pelican-eggs/generic
+        pelican-eggs/minecraft
+        pelican-eggs/monitoring
+        pelican-eggs/storage
+        pelican-eggs/voice
+        pelican-eggs/software
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Clone repo list
+        run: |
+          mkdir -p repos
+          while read -r repo; do
+            if [ -n "$repo" ]; then
+              target="repos/$(basename "$repo")"
+              git clone --depth 1 "https://github.com/$repo.git" "$target"
+            fi
+          done <<< "$REPO_LIST"
+
+      - name: Generate Pelican JSON files
+        run: python3 .github/generate_content.py
+
+      - name: Commit generated content files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/pelican.json content/pelican.md content/pterodactyl.json content/pterodactyl.md
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update generated Pelican content files"
+          git push origin HEAD
