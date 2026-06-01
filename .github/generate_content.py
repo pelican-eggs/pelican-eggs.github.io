@@ -55,14 +55,44 @@ def parse_egg_metadata(path: Path) -> Dict[str, Any]:
     return metadata
 
 
+def normalize_meta_version(version: str | None) -> str | None:
+    if not isinstance(version, str):
+        return None
+
+    normalized = version.strip().upper()
+    if normalized.startswith("PTDL"):
+        return "PTDL"
+    if normalized.startswith("PLCN"):
+        return "PLCN"
+    return normalized
+
+
+def is_valid_meta_version(version: str | None, panel_type: str) -> bool:
+    normalized = normalize_meta_version(version)
+    if not normalized:
+        return False
+
+    if panel_type == "Pterodactyl":
+        return normalized == "PTDL"
+
+    if panel_type == "Pelican":
+        return normalized in {"PTDL", "PLCN"}
+
+    return False
+
+
 def build_download_url(base_owner: str, repo: str, branch: str, relative_path: str) -> str:
     relative_path = Path(relative_path).as_posix()
     return f"https://raw.githubusercontent.com/{base_owner}/{repo}/refs/heads/{branch}/{relative_path}"
 
 
-def collect_eggs(repos_dir: Path, base_owner: str, branch: str) -> Tuple[defaultdict[str, list[Dict[str, Any]]], defaultdict[str, list[Dict[str, Any]]]]:
+def collect_eggs(repos_dir: Path, base_owner: str, branch: str) -> Tuple[defaultdict[str, list[Dict[str, Any]]], defaultdict[str, list[Dict[str, Any]]], Dict[str, int]]:
     pelican_nests: defaultdict[str, list[Dict[str, Any]]] = defaultdict(list)
     pterodactyl_nests: defaultdict[str, list[Dict[str, Any]]] = defaultdict(list)
+    invalid_counts: dict[str, int] = {
+        "missing_name": 0,
+        "invalid_version": 0,
+    }
 
     for path in sorted(repos_dir.rglob("*egg-*")):
         if not path.is_file() or not EGG_FILE_PATTERN.search(path.name):
@@ -81,6 +111,13 @@ def collect_eggs(repos_dir: Path, base_owner: str, branch: str) -> Tuple[default
 
         metadata = parse_egg_metadata(path)
         if not metadata["name"]:
+            invalid_counts["missing_name"] += 1
+            continue
+
+        is_pterodactyl = "pterodactyl" in path.name.lower()
+        panel_type = "Pterodactyl" if is_pterodactyl else "Pelican"
+        if not is_valid_meta_version(metadata["version"], panel_type):
+            invalid_counts["invalid_version"] += 1
             continue
 
         download_url = build_download_url(
@@ -105,7 +142,7 @@ def collect_eggs(repos_dir: Path, base_owner: str, branch: str) -> Tuple[default
         else:
             pelican_nests[nest_type].append(egg_entry)
 
-    return pelican_nests, pterodactyl_nests
+    return pelican_nests, pterodactyl_nests, invalid_counts
 
 
 def escape_markdown_cell(text: str) -> str:
@@ -163,7 +200,7 @@ def main() -> int:
     if not repos_path.is_dir():
         raise SystemExit(f"repos directory not found: {repos_path}")
 
-    pelican_nests, pterodactyl_nests = collect_eggs(repos_path, owner, branch)
+    pelican_nests, pterodactyl_nests, invalid_counts = collect_eggs(repos_path, owner, branch)
     output_dir = (root / "content").resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -185,8 +222,13 @@ def main() -> int:
 
     total_pelican = sum(len(v) for v in pelican_nests.values())
     total_ptero = sum(len(v) for v in pterodactyl_nests.values())
+    total_invalid = sum(invalid_counts.values())
+
     print(
         f"Done: {total_pelican} pelican eggs and {total_ptero} pterodactyl eggs across {len(pelican_nests)} pelican nests and {len(pterodactyl_nests)} pterodactyl nests."
+    )
+    print(
+        f"Skipped {total_invalid} invalid eggs (missing name: {invalid_counts['missing_name']}, invalid version: {invalid_counts['invalid_version']})."
     )
     return 0
 
