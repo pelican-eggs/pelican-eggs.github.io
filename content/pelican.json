@@ -2,7 +2,7 @@
 	"panel_type": "Pelican",
 	"nests": [
 		{
-			"nest_type": "Chatbot",
+			"nest_type": "Chatbots",
 			"Eggs": [
 				{
 					"egg": {
@@ -342,7 +342,7 @@
 			]
 		},
 		{
-			"nest_type": "Standalone",
+			"nest_type": "Games Standalone",
 			"Eggs": [
 				{
 					"egg": {
@@ -482,7 +482,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Cube 2: Sauerbraten is a free multiplayer \u0026 singleplayer first person shooter, the successor of the Cube FPS. Much like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game."
+						"description": "Cube 2: Sauerbraten is a free multiplayer & singleplayer first person shooter, the successor of the Cube FPS. Much like the original Cube, the aim of this game is fun, old school deathmatch gameplay and also to allow map/geometry editing to be done cooperatively in-game."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/cubeengine/cube2/egg-cube2--sauerbraten.json",
 					"readme": ""
@@ -691,7 +691,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandboxwith the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and avariety of creatures, then shape it block by block."
+						"description": "Set out on an adventure built for both creation and play. Hytale blends the freedom of a sandbox with the momentum of an RPG: explore a procedurally generated world full of dungeons, secrets, and a variety of creatures, then shape it block by block."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hytale/egg-hytale.yaml",
 					"readme": ""
@@ -779,7 +779,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Return to the Forgotten Realms in this bestselling Dungeons \u0026 Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!"
+						"description": "Return to the Forgotten Realms in this bestselling Dungeons & Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/neverwinter_nights_ee/egg-neverwinter-nights--enhanced-edition.json",
 					"readme": ""
@@ -801,7 +801,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
+						"description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_dune2000/egg-open-r-a--dune2000.json",
 					"readme": ""
@@ -812,7 +812,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
+						"description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_red_alert/egg-open-r-a.json",
 					"readme": ""
@@ -823,7 +823,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "OpenRA is a project that recreates and modernizes the classic Command \u0026 Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
+						"description": "OpenRA is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods)."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/openra/openra_tiberian_dawn/egg-open-r-a--tiberian-dawn.json",
 					"readme": ""
@@ -953,7 +953,7 @@
 					"egg": {
 						"name": "tshock",
 						"meta": {
-							"version": "PLCN_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "The t-shock modded terraria server.  https://tshock.co/"
 					},
@@ -1019,18 +1019,18 @@
 					"egg": {
 						"name": "Venice Unleashed",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
-						"description": "Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server \u0026 modding platform that gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file, and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to `/bf3`."
+						"description": "Venice Unleashed (VU) is a community-oriented Battlefield 3 custom server & modding platform that gives you back control of your gaming experience. This Egg requires a valid VU `server.key` file, and requires Battlefield 3 client files (from a legal copy of the game) to be internally mounted to `/bf3`."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-venice-unleashed.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/venice_unleashed/egg-venice-unleashed.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Vintage Story",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Vintage Story is an uncompromising wilderness survival sandbox game inspired by lovecraftian horror themes. Find yourself in a ruined world reclaimed by nature and permeated by unnerving temporal disturbances. Relive the advent of human civilization, or take your own path."
 					},
@@ -1063,9 +1063,9 @@
 					"egg": {
 						"name": "Xonotic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
-						"description": "This is for the default xonotic setup."
+						"description": "Xonotic: The Free and Fast Arena Shooter"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/xonotic/egg-xonotic.json",
 					"readme": ""
@@ -1073,7 +1073,7 @@
 			]
 		},
 		{
-			"nest_type": "SteamCMD",
+			"nest_type": "Games Steamcmd",
 			"Eggs": [
 				{
 					"egg": {
@@ -1103,7 +1103,7 @@
 						"meta": {
 							"version": "PLCN_v1"
 						},
-						"description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame \u0026 breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!"
+						"description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/ark_survival_ascended/egg-a-r-k--survival-ascended.json",
 					"readme": ""
@@ -1264,13 +1264,24 @@
 				},
 				{
 					"egg": {
-						"name": "Conan Exiles",
+						"name": "Conan Exiles Enhanced",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-conan-exiles.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-conan-exiles-enhanced.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Conan Exiles",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Conan Exiles is an open-world survival game set in the brutal lands of Conan the Barbarian. Survive in a savage world, build your kingdom, and dominate your enemies in brutal combat and epic warfare."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/conan_exiles/egg-conan-exiles-legacy.yaml",
 					"readme": ""
 				},
 				{
@@ -1288,22 +1299,22 @@
 					"egg": {
 						"name": "Counter-Strike 2",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Counter-Strike: Source",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.yaml",
 					"readme": ""
 				},
 				{
@@ -1334,7 +1345,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Adventure, creation, and survival await!Step into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy."
+						"description": "Adventure, creation, and survival await! Step into a boundless open world where every planet, every system, and every moment is yours to shape. Explore a universe rich with life, ancient mysteries, and untamed beauty. Fight back the Red Darkness menace as you mine resources, craft tools, weapons, and build vehicles that are essential for your odyssey. Collaborate with friends to battle colossal threats and bring hope to the galaxy."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/cubic_odyssey/egg-cubic-odyssey.json",
 					"readme": ""
@@ -1345,7 +1356,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "This option allows modifying the startup arguments and other details to run a custom SRCDS basedgame on the panel."
+						"description": "This option allows modifying the startup arguments and other details to run a custom SRCDS based game on the panel."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/custom-source-engine/egg-custom-source-engine-game.yaml",
 					"readme": ""
@@ -1466,7 +1477,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Garrys Mod, is a sandbox physics game created by Garry Newman, and developed by his company,Facepunch Studios."
+						"description": "Garrys Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/gmod/egg-garrys-mod.yaml",
 					"readme": ""
@@ -1554,7 +1565,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Take to the streets for intense close quarters combat, where a team's survival depends upon securingcrucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Enginebased experience."
+						"description": "Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine based experience."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency/egg-insurgency.yaml",
 					"readme": ""
@@ -1682,7 +1693,7 @@
 				},
 				{
 					"egg": {
-						"name": "Mount \u0026 Blade II: Bannerlord",
+						"name": "Mount & Blade II: Bannerlord",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -1763,7 +1774,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Grab your ragtag crew \u0026 take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!"
+						"description": "Grab your ragtag crew & take up the Nectar Raiding trade on a dangerous planet that’s become all the rage! In this PvPvE extraction game for 1-10 players, compete against enemy crews to harvest as much Nectar as possible before night falls. But watch out, you're not the only one roaming this planet!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/no_love_lost/egg-no-love-lost.json",
 					"readme": ""
@@ -1979,6 +1990,17 @@
 				},
 				{
 					"egg": {
+						"name": "RuneScape: Dragonwilds",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "RuneScape: Dragonwilds is a co-op survival RPG set in the world of RuneScape. Up to 6 players can explore, craft, build, and battle together on a dedicated server. RAM recommendation is 2 GB base + 1 GB per player (8 GB for a full 6-player server)."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/runescape_dragonwilds/egg-runescape-dragonwilds.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Rust Autowipe",
 						"meta": {
 							"version": "PTDL_v2"
@@ -2005,7 +2027,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger,thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from otherplayers, and kill them for meat. Create alliances with other players and form a town. Do whatever ittakes to survive."
+						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/vanilla/egg-rust.yaml",
 					"readme": ""
@@ -2049,7 +2071,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small \u0026 at the bottom of the food chain. Craft weapons \u0026 armour, tame \u0026 ride creatures, build encampments \u0026 explore a strange new land.  Steam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/"
+						"description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.  Steam: https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/smalland_survive_the_wilds/egg-smalland--survive-the-wilds.json",
 					"readme": ""
@@ -2124,11 +2146,11 @@
 					"egg": {
 						"name": "Space Engineers - Torch Server",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Torch is the successor to SE Server Extender and gives server admins the tools they need to keep their Space Engineers servers running smoothly. It features a user interface with live management tools and a plugin system so you can run your server exactly how you'd like. Torch is still in early development so there may be bugs and incomplete features.  !!!!! DO NOT CANCEL THE FIRST START, OR YOU NEED TO DELETE THE SERVER AND CREATE FROM SCRATCH !!!!"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-space-engineers--torch-server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/space_engineers/torch/egg-space-engineers--torch-server.yaml",
 					"readme": ""
 				},
 				{
@@ -2148,9 +2170,20 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking \u0026 radio."
+						"description": "Squad is a 50 vs 50 multiplayer first-person shooter that aims to capture combat realism through communication and teamplay. Major features include vehicle-based combined arms gameplay, large scale environments, base building, and integrated positional VoIP for proximity talking & radio."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/squad/egg-squad.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "StarRupture",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. Developed by Creepy Jar."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/star_rupture/pelican-egg-star-rupture.json",
 					"readme": ""
 				},
 				{
@@ -2179,7 +2212,7 @@
 					"egg": {
 						"name": "Stationeers",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Stationeers Server"
 					},
@@ -2203,7 +2236,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Subnautica is an open world survival action-adventure video game developed and published by Unknown Worlds Entertainment. In it, players are free to explore the ocean on an alien planet, known as planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface.  Note: NitroxMod version \u003e=1.7.0.0 is required"
+						"description": "Subnautica is an open world survival action-adventure video game developed and published by Unknown Worlds Entertainment. In it, players are free to explore the ocean on an alien planet, known as planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface.  Note: NitroxMod version >=1.7.0.0 is required"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subnautica_nitrox_mod/egg-subnautica.json",
 					"readme": ""
@@ -2227,7 +2260,7 @@
 						},
 						"description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_%27n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
 					"readme": ""
 				},
 				{
@@ -2236,7 +2269,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Team Fortress 2 is a team-based first-person shooter multiplayer video game developed and publishedby Valve Corporation. It is the sequel to the 1996 mod Team Fortress for Quake and its 1999 remake."
+						"description": "Team Fortress 2 is a team-based first-person shooter multiplayer video game developed and published by Valve Corporation. It is the sequel to the 1996 mod Team Fortress for Quake and its 1999 remake."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/team_fortress_2/egg-team-fortress2.yaml",
 					"readme": ""
@@ -2379,7 +2412,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatoryinspired by viking culture incl the Plugin Framework BepInEx"
+						"description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture incl the Plugin Framework BepInEx"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/valheim/valheim_bepinex/egg-valheim-bep-i-nex.yaml",
 					"readme": ""
@@ -2434,7 +2467,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticateddriving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and moretraditional track races. It’s all about fun, breakneck racing and over-the-top crashes."
+						"description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It’s all about fun, breakneck racing and over-the-top crashes."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/wreckfest/egg-wreckfest.yaml",
 					"readme": ""
@@ -2456,7 +2489,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Zombie Survival Game Online is an open-world, post-apocalyptic, looter shooter. We aim to deliver a survival community experience that will entertain for years to come, utilizing a heavy passion for the genre \u0026 the years spent honing our development skills. Can you survive? Craft your story today!"
+						"description": "Zombie Survival Game Online is an open-world, post-apocalyptic, looter shooter. We aim to deliver a survival community experience that will entertain for years to come, utilizing a heavy passion for the genre & the years spent honing our development skills. Can you survive? Craft your story today!"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/zombie_survival_game_online/egg-zombie-survival-game-online.json",
 					"readme": ""
@@ -2464,7 +2497,7 @@
 			]
 		},
 		{
-			"nest_type": "Generic Language",
+			"nest_type": "Generic",
 			"Eggs": [
 				{
 					"egg": {
@@ -2485,7 +2518,7 @@
 						},
 						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c%23/egg-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-generic-c.json",
 					"readme": ""
 				},
 				{
@@ -2582,7 +2615,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "A Generic Python Egg for Pelican \u0026 PterodactylTested with: https://github.com/Ispira/pixel-bot"
+						"description": "A Generic Python Egg for Pelican & Pterodactyl  Tested with: https://github.com/Ispira/pixel-bot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-python-generic.json",
 					"readme": ""
@@ -2609,7 +2642,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "LiteLoaderBDS - Epoch-making \u0026 Cross-language Bedrock Dedicated Servers Plugin Loader  LiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support."
+						"description": "LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader  LiteLoaderBDS is an unofficial plugin loader that provides basic API support for Bedrock Dedicated Server, with a massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/bedrock/LiteLoader-bedrock/egg-liteloader-bedrock-dedicated-server.json",
 					"readme": ""
@@ -2721,7 +2754,7 @@
 						},
 						"description": "Fabric is a modular modding toolchain targeting Minecraft 1.14 and above, including snapshots."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-fabric.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/fabric/egg-fabric.yaml",
 					"readme": ""
 				},
 				{
@@ -2739,11 +2772,11 @@
 					"egg": {
 						"name": "Folia",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Fork of Paper which adds regionised multithreading to the dedicated server."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-folia.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-folia.yaml",
 					"readme": ""
 				},
 				{
@@ -2752,7 +2785,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), whichmakes it easier to create mods, and also make sure mods are compatible with each other."
+						"description": "Minecraft Forge Server. Minecraft Forge is a modding API (Application Programming Interface), which makes it easier to create mods, and also make sure mods are compatible with each other."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/forge/egg-forge-minecraft.yaml",
 					"readme": ""
@@ -2871,11 +2904,11 @@
 					"egg": {
 						"name": "MohistMC",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Spigot fork with performance optimizations."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-mohist.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/mohist/egg-mohist-m-c.yaml",
 					"readme": ""
 				},
 				{
@@ -2915,11 +2948,11 @@
 					"egg": {
 						"name": "Purpur",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-purpur.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/purpur/egg-purpur.yaml",
 					"readme": ""
 				},
 				{
@@ -2930,18 +2963,18 @@
 						},
 						"description": "The Quilt project is an open-source, community-driven modding toolchain designed primarily for Minecraft. By focusing on speed, ease of use and modularity, Quilt aims to provide a sleek and modern modding toolchain with an open ecosystem."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-quilt.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/quilt/egg-quilt.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Spigot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Spigot is the most widely-used modded Minecraft server software in the world. It powers many of the top Minecraft server networks around to ensure they can cope with their huge player base and ensure the satisfaction of their players. Spigot works by reducing and eliminating many causes of lag, as well as adding in handy features and settings that help make your job of server administration easier."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-spigot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/spigot/egg-spigot.yaml",
 					"readme": ""
 				},
 				{
@@ -3082,7 +3115,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worldsand build amazing things from the simplest of homes to the grandest of castles. Play in CreativeMode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend offdangerous mobs. Do all this alone or with friends."
+						"description": "Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in Creative Mode with unlimited resources or mine deep in Survival Mode, crafting weapons and armor to fend off dangerous mobs. Do all this alone or with friends."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/vanilla/egg-vanilla-minecraft.yaml",
 					"readme": ""
@@ -3137,7 +3170,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "For a long time, Minecraft server owners have had a dream that encompasses a free, easy, andreliable way to connect multiple Minecraft servers together. BungeeCord is the answer to said dream.Whether you are a small server wishing to string multiple game-modes together, or the owner of theShotBow Network, BungeeCord is the ideal solution for you. With the help of BungeeCord, you will beable to unlock your community's full potential."
+						"description": "For a long time, Minecraft server owners have had a dream that encompasses a free, easy, and reliable way to connect multiple Minecraft servers together. BungeeCord is the answer to said dream. Whether you are a small server wishing to string multiple game-modes together, or the owner of the ShotBow Network, BungeeCord is the ideal solution for you. With the help of BungeeCord, you will be able to unlock your community's full potential."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/bungeecord/egg-bungeecord.yaml",
 					"readme": ""
@@ -3157,7 +3190,7 @@
 					"egg": {
 						"name": "Velocity",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Velocity is a Minecraft server proxy with unparalleled server support, scalability, and flexibility."
 					},
@@ -3190,11 +3223,11 @@
 					"egg": {
 						"name": "Waterfall",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Waterfall is a fork of the well-known BungeeCord server teleportation suite."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-waterfall.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/proxy/java/waterfall/egg-waterfall.yaml",
 					"readme": ""
 				}
 			]
@@ -3227,93 +3260,6 @@
 			]
 		},
 		{
-			"nest_type": "Storage",
-			"Eggs": [
-				{
-					"egg": {
-						"name": "Minio S3",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "MinIO is a cloud storage server compatible with Amazon S3, released under Apache License v2. As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container images. The maximum size of an object is 5TB."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-minio-s3.json",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "SFTP Storage Share",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-s-f-t-p-storage-share.json",
-					"readme": ""
-				}
-			]
-		},
-		{
-			"nest_type": "Voice",
-			"Eggs": [
-				{
-					"egg": {
-						"name": "Mumble Server",
-						"meta": {
-							"version": "PLCN_v3"
-						},
-						"description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for usewhile gaming."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/mumble/egg-mumble-server.yaml",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "Teamspeak3 Server ARM64",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-arm64-server.json",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "Teamspeak3 Server",
-						"meta": {
-							"version": "PLCN_v3"
-						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endlesscustomization options, and scalabilty up to thousands of simultaneous users."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-server.yaml",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "TS3 Manager",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "The Open Source Webinterface For TeamSpeak Servers"
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-t-s3-manager.json",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "Teamspeak6 Server",
-						"meta": {
-							"version": "PLCN_v1"
-						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts6/egg-teamspeak6-server.json",
-					"readme": ""
-				}
-			]
-		},
-		{
 			"nest_type": "Software",
 			"Eggs": [
 				{
@@ -3322,7 +3268,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A suite of tools for 5th Edition Dungeons \u0026 Dragons players and Dungeon Masters."
+						"description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/5e-tools/egg-5e-tools.json",
 					"readme": ""
@@ -3421,7 +3367,7 @@
 						"meta": {
 							"version": "PLCN_v1"
 						},
-						"description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards.Description taken from https://github.com/lavalink-devs/Lavalink"
+						"description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards. Description taken from https://github.com/lavalink-devs/Lavalink"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/lavalink/egg-lavalink.json",
 					"readme": ""
@@ -3465,7 +3411,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternativeto frp and ngrok."
+						"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/rathole/egg-rathole.yaml",
 					"readme": ""
@@ -3501,6 +3447,93 @@
 						"description": "Yarr is a selfhosted feed aggregator"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/yarr/egg-yarr.yaml",
+					"readme": ""
+				}
+			]
+		},
+		{
+			"nest_type": "Storage",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Minio S3",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "MinIO is a cloud storage server compatible with Amazon S3, released under Apache License v2. As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container images. The maximum size of an object is 5TB."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-minio-s3.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "SFTP Storage Share",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-s-f-t-p-storage-share.json",
+					"readme": ""
+				}
+			]
+		},
+		{
+			"nest_type": "Voice",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Mumble Server",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/mumble/egg-mumble-server.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Teamspeak3 Server ARM64",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-arm64-server.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Teamspeak3 Server",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-server.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "TS3 Manager",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The Open Source Webinterface For TeamSpeak Servers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-t-s3-manager.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Teamspeak6 Server",
+						"meta": {
+							"version": "PLCN_v1"
+						},
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts6/egg-teamspeak6-server.json",
 					"readme": ""
 				}
 			]
