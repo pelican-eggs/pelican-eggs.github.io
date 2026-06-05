@@ -1299,22 +1299,22 @@
 					"egg": {
 						"name": "Counter-Strike 2",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_2/egg-counter--strike2.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Counter-Strike: Source",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/counter_strike/counter_strike_source/egg-counter--strike--source.yaml",
 					"readme": ""
 				},
 				{
