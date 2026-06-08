@@ -1198,6 +1198,17 @@
 				},
 				{
 					"egg": {
+						"name": "Banana Shooter",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Dave is the banana man who is keep shooting enemies and get their banana, and use some cool mechanic such as dash, double jump, grapple hook and rocket jump. If you are finding fast paced shooter game, this is what you need"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/banana_shooter/egg-banana-shooter.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Barotrauma",
 						"meta": {
 							"version": "PTDL_v2"
