@@ -1061,6 +1061,17 @@
 				},
 				{
 					"egg": {
+						"name": "World of PADMAN",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "World of PADMAN (WoP) standalone server. with automatic configuration generation."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/world_of_padman/egg-world-of-p-a-d-m-a-n.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Xonotic",
 						"meta": {
 							"version": "PLCN_v3"
@@ -2069,11 +2080,11 @@
 					"egg": {
 						"name": "SCP:SL - Exiled",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Egg for SCP: Secret Laboratory Dedicated Linux Server with Exiled Plugin Framework"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-s-c-p--s-l--exiled.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/scpsl/exiled/egg-s-c-p-s-l--exiled.yaml",
 					"readme": ""
 				},
 				{
