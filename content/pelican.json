@@ -2536,11 +2536,11 @@
 					"egg": {
 						"name": "Generic C#",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-generic-c.yaml",
 					"readme": ""
 				},
 				{

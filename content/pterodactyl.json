@@ -2364,7 +2364,7 @@
 						},
 						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/pterodactyl-egg-generic-c.json",
 					"readme": ""
 				},
 				{
