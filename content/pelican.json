@@ -1105,7 +1105,7 @@
 						},
 						"description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-abiotic-factor.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/abiotic_factor/egg-abiotic-factor.yaml",
 					"readme": ""
 				},
 				{
@@ -3310,11 +3310,11 @@
 					"egg": {
 						"name": "5e Tools",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/5e-tools/egg-5e-tools.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/5e-tools/egg-5e-tools.yaml",
 					"readme": ""
 				},
 				{
