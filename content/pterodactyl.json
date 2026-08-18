@@ -1226,7 +1226,7 @@
 						},
 						"description": "Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/egg-pterodactyl-craftopia.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/craftopia/pterodactyl-egg-craftopia.json",
 					"readme": ""
 				},
 				{
@@ -1447,6 +1447,17 @@
 						"description": "Icarus is a survival game that with dedicated servers as a public beta"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/icarus/pterodactyl-egg-icarus.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Insurgency",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Take to the streets for intense close quarters combat, where a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer and cooperative Source Engine based experience."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/insurgency/pterodactyl-egg-insurgency.json",
 					"readme": ""
 				},
 				{
@@ -1887,6 +1898,17 @@
 						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/rust_staging/egg-pterodactyl-rust-staging.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Rust",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The only aim in Rust is to survive. To do this you will need to overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals for meat. Protect yourself from other players, and kill them for meat. Create alliances with other players and form a town. Do whatever it takes to survive."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/rust/vanilla/egg-pterodactyl-rust.json",
 					"readme": ""
 				},
 				{
