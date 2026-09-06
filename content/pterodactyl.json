@@ -863,6 +863,17 @@
 				},
 				{
 					"egg": {
+						"name": "Tiny Block Server",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Open-source headless dedicated server for persistent Tiny Block multiplayer worlds."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/tiny_block/egg-pterodactyl-tiny-block-server.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Trackmania (2020)",
 						"meta": {
 							"version": "PTDL_v2"

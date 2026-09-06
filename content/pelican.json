@@ -984,6 +984,17 @@
 				},
 				{
 					"egg": {
+						"name": "Tiny Block Server",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Open-source headless dedicated server for persistent Tiny Block multiplayer worlds."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/tiny_block/egg-tiny-block-server.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Trackmania (2020)",
 						"meta": {
 							"version": "PLCN_v2"
