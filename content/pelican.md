@@ -360,6 +360,7 @@ draft = false
 ## Voice
 | Egg | Description |
 |-----|----------|
+| [Gryt Server](https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/gryt/egg-gryt-server.yaml) | Gryt is an open source voice, video and text chat platform.  Connect with the Gryt desktop app or the hosted web client at https://app.gryt.chat. The first user to join becomes the owner; afterwards the server is invite-only.  Requirements: - amd64 only (the Gryt Linux bundle is x64 only) - needs two extra allocations: one for the SFU websocket (set SFU_PORT to its port), one for voice media (set ICE_UDP_MUX_PORT to its port) - set SFU_PUBLIC_HOST to <public-ip>:<SFU_PORT> so voice works over the internet |
 | [Mumble Server](https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/mumble/egg-mumble-server.yaml) | Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming. |
 | [Teamspeak3 Server](https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-server.yaml) | VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users. |
 | [Teamspeak3 Server ARM64](https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-arm64-server.json) | VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users. |
