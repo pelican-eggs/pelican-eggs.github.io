@@ -8,198 +8,198 @@
 					"egg": {
 						"name": "Aoede",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Aoede is a Discord music bot that directly streams from Spotify to Discord. The only interface is Spotify itself."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-aoede.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/aoede/egg-aoede.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "ATLBot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "ATLbot in ptero  https://github.com/ATLauncher/discord-bot/"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-a-t-l-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-a-t-l-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Bastion",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Bastion is a multi-purpose Discord Bot that can help you automate most tasks in your server, from administration and moderation to keeping the members active through various incentives, games and other fun activities"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-bastion.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/bastion/egg-bastion.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "CorpBot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A very clumsy python bot for discord   https://github.com/corpnewt/CorpBot.py"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-corp-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/corpbot/egg-corp-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Dynamica",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "An easy-to-use dynamic voice channel bot."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-dynamica.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/dynamica/egg-dynamica.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "fragbot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "The fragforce discord bot.  located at https://github.com/fragforce/fragbot"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-fragbot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/fragbot/egg-fragbot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Game Server Watcher",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A simple discord/telegram/slack bot that can be hosted on a free service to monitor your game servers and players in style. 😎"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-game-server-watcher.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/game-server-watcher/egg-game-server-watcher.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "JMusicBot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A Discord music bot that's easy to set up and run yourself!"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-j-music-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/jmusicbot/egg-j-music-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Muse",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Muse is a self-hosted Discord music bot that is made for small to medium-sized Discord servers/guilds."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-muse.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/muse/egg-muse.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "parkertron",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "The stupid chatbot parkertron by Parkervcp.  https://github.com/parkervcp/parkertron"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-parkertron.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/parkertron/egg-parkertron.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "pixel-bot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A Discord bot written in Python using discord.py  https://github.com/Ispira/pixel-bot"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pixel-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/pixelbot/egg-pixel-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Red",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A multifunction Discord bot   https://github.com/Cog-Creators/Red-DiscordBot"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-red.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/redbot/egg-red.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Ree6",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "All-in-one, open source and 100% free Discord Bot!"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-ree6.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/ree6/egg-ree6.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Sinusbot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Musicbot for Discord and Teamspeak."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-sinusbot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-sinusbot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Big Brother Bot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Big Brother Bot B3 is a complete and total server administration package for online games. B3 is designed primarily to keep your server free from the derelicts of online gaming, but offers more, much more.  https://github.com/BigBrotherBot/big-brother-bot"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-big-brother-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/other/bigbrotherbot/egg-big-brother-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "JTS3ServerMod",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Setup: - Install the latest version - Go into config/server1 and edit JTS3ServerMod_server.cfg - Save and start the server  Author: https://www.stefan1200.de/forum/index.php?topic=2.0"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/teamspeak3/jts3servermod/egg-j-t-s3-server-mod.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "PhantomBot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "PhantomBot is an actively developed open source interactive Twitch bot with a vibrant community that provides entertainment and moderation for your channel, allowing you to focus on what matters the most to you - your game and your viewers."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-phantom-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/phantombot/egg-phantom-bot.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "SogeBot",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "sogeBot - Free Twitch Bot built on Node.js https://sogebot.xyz/"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-soge-bot.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/twitch/sogebot/egg-soge-bot.yaml",
 					"readme": ""
 				}
 			]
@@ -359,7 +359,7 @@
 					"egg": {
 						"name": "SuperTuxKart",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Egg for hosting a SuperTuxKart Server."
 					},
@@ -489,6 +489,17 @@
 				},
 				{
 					"egg": {
+						"name": "Daggerfall Online",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Daggerfall Online server created from the default generic Node.js egg. SSL is required for this egg to run properly."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/daggerfall_online/egg-daggerfall-online.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "DDRaceNetwork",
 						"meta": {
 							"version": "PTDL_v2"
@@ -517,7 +528,18 @@
 						},
 						"description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-stay-in-tarkov.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/sit/egg-stay-in-tarkov.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Single Player Tarkov",
+						"meta": {
+							"version": "PLCN_v1"
+						},
+						"description": "Single Player Tarkov (SPT) transforms your Escape From Tarkov (EFT) client into a fully offline experience. No more server downtime, cheaters, or forced PvP. Enjoy realistic raids, quest progression, and steady character development on your own terms."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/spt/egg-single-player-tarkov.json",
 					"readme": ""
 				},
 				{
@@ -1913,6 +1935,17 @@
 				},
 				{
 					"egg": {
+						"name": "Plains of Pain",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Survive a brutal open world alone or with friends. Explore a procedural wasteland scorched by chaos. Build and defend your base, trade for what you need, complete deadly quests, and fight to claim faction outposts before someone else does. "
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/plains_of_pain/egg-plains-of-pain.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Portal Knights",
 						"meta": {
 							"version": "PTDL_v2"
@@ -2558,11 +2591,11 @@
 					"egg": {
 						"name": "Bun",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Bun is an incredibly fast JavaScript runtime, transpiler bundler, and npm package manager all-in-one."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-bun.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/bun/egg-bun.yaml",
 					"readme": ""
 				},
 				{
@@ -2578,73 +2611,73 @@
 				},
 				{
 					"egg": {
-						"name": "dart generic",
+						"name": "Dart generic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic dart CLI egg.  This will clone a dart CLI application. it defaults to master if no branch is specified.  Installs the pubspec.yaml packages on run. If you set user_upload then I assume you know what you are doing."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-dart-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/dart/egg-dart-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Deno Generic",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic egg to run deno code."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-deno-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/deno/egg-deno-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Elixir",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Elixir is a functional, concurrent, high-level general-purpose programming language that runs on the BEAM virtual machine, which is also used to implement the Erlang programming language."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-elixir.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/elixir/egg-elixir.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "golang generic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic golang egg that compiles the application and saves an executable  Meant to be customized before it is used."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-golang-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/golang/egg-golang-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Generic Java",
+						"name": "Java generic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Creates a container that runs java."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-generic-java.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-java-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "luvit generic",
+						"name": "Luvit generic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic luvit egg This will clone a git repo. It defaults to master if no branch is specified.  Supports the discordia lua framework."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-luvit-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/lua/luvit/egg-luvit-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "node.js generic",
+						"name": "Node.js generic",
 						"meta": {
 							"version": "PLCN_v3"
 						},
@@ -2655,35 +2688,35 @@
 				},
 				{
 					"egg": {
-						"name": "nodemon",
+						"name": "Nodemon",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Nodemon javascript egg that automatically restarts the node application when file changes in the directory are detected  This will clone a git repo for a bot. it defaults to master if no branch is specified.  Installs the node_modules on install. If you set user_upload, then I assume you know what you are doing."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-nodemon.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodemon/egg-nodemon.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "python generic",
+						"name": "Python generic",
 						"meta": {
 							"version": "PLCN_v3"
 						},
 						"description": "A Generic Python Egg for Pelican & Pterodactyl  Tested with: https://github.com/Ispira/pixel-bot"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-python-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-python-generic.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "rust generic",
+						"name": "Rust generic",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Creates a container that runs rust with cargo."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-rust-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/rust/egg-rust-generic.yaml",
 					"readme": ""
 				}
 			]
@@ -2794,11 +2827,11 @@
 					"egg": {
 						"name": "CurseForge Generic",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "A generic egg for a CurseForge modpack."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-curse-forge-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/curseforge/egg-curse-forge-generic.yaml",
 					"readme": ""
 				},
 				{
@@ -2821,6 +2854,17 @@
 						"description": "An experimental Minecraft server implementation written in Rust."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/feather/egg-feather.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Folia",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Fork of Paper which adds regionised multithreading to the dedicated server."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/minecraft/refs/heads/main/java/folia/egg-folia.json",
 					"readme": ""
 				},
 				{
@@ -3294,22 +3338,22 @@
 					"egg": {
 						"name": "Loki",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/loki/egg-loki.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/loki/egg-loki.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Prometheus",
 						"meta": {
-							"version": "PLCN_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "The Prometheus monitoring system and time series database."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/prometheus/egg-prometheus.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/prometheus/egg-prometheus.yaml",
 					"readme": ""
 				}
 			]
@@ -3332,66 +3376,66 @@
 					"egg": {
 						"name": "Code-Server",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "Run VS Code on any machine anywhere and access it in the browser."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/code-server/egg-code--server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/code-server/egg-code-server.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Elasticsearch",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/elasticsearch/egg-elasticsearch.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/elasticsearch/egg-elasticsearch.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Folding@Home",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/foldingathome/egg-folding--home.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/foldingathome/egg-folding-home.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Forgejo",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Forgejo is a community managed lightweight code hosting solution written in Go. It is published under the MIT license, and is a fork of Gitea."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/forgejo/egg-forgejo.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/forgejo/egg-forgejo.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Gitea",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/gitea/egg-gitea.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/gitea/egg-gitea.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Grafana",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/grafana/egg-grafana.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/grafana/egg-grafana.yaml",
 					"readme": ""
 				},
 				{
@@ -3409,55 +3453,55 @@
 					"egg": {
 						"name": "LanguageTool",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "This egg installs a LanguageTool server  LanguageTool is an Open Source proofreading software for English, French, German, Polish, Russian, and more than 20 other languages. It finds many errors that a simple spell checker cannot find.  View https://languagetool.org for more information."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/languagetool/egg-language-tool.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/languagetool/egg-language-tool.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Lavalink",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
 						"description": "A standalone audio sending node based on Lavaplayer and Koe. Allows for sending audio without it ever reaching any of your shards. Description taken from https://github.com/lavalink-devs/Lavalink"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/lavalink/egg-lavalink.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/lavalink/egg-lavalink.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Meilisearch",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/meilisearch/egg-meilisearch.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/meilisearch/egg-meilisearch.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "owncast.online",
+						"name": "Owncast.online",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/owncast/egg-owncast-online.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/owncast/egg-owncastonline.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "RabbitMQ",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "RabbitMQ is a feature rich, multi-protocol messaging broker."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/rabbitmq/egg-rabbit-m-q.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/rabbitmq/egg-rabbit-m-q.yaml",
 					"readme": ""
 				},
 				{
@@ -3475,22 +3519,22 @@
 					"egg": {
 						"name": "Reposilite",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Lightweight and easy-to-use repository management software dedicated for Maven based artifacts in the JVM ecosystem."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/reposilite/egg-reposilite.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/reposilite/egg-reposilite.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "Uptime Kuma",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Uptime Kuma is an easy-to-use self-hosted monitoring tool."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/uptime-kuma/egg-uptime-kuma.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/uptime-kuma/egg-uptime-kuma.yaml",
 					"readme": ""
 				},
 				{
@@ -3513,22 +3557,22 @@
 					"egg": {
 						"name": "Minio S3",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "MinIO is a cloud storage server compatible with Amazon S3, released under Apache License v2. As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container images. The maximum size of an object is 5TB."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-minio-s3.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/minio/egg-minio-s3.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "SFTP Storage Share",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
-						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
+						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pelican's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-s-f-t-p-storage-share.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-s-f-t-p-storage-share.yaml",
 					"readme": ""
 				}
 			]

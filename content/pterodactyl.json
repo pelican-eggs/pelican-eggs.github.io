@@ -396,7 +396,7 @@
 						},
 						"description": "The Stay in Tarkov project was born due to Battlestate Games' (BSG) reluctance to create the pure PvE version of Escape from Tarkov. The project's aim is simple, create a Cooperation PvE experience that retains progression."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/egg-pterodactyl-stay-in-tarkov.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/eft/sit/egg-pterodactyl-stay-in-tarkov.json",
 					"readme": ""
 				},
 				{
@@ -1781,6 +1781,17 @@
 				},
 				{
 					"egg": {
+						"name": "Plains of Pain",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Survive a brutal open world alone or with friends. Explore a procedural wasteland scorched by chaos. Build and defend your base, trade for what you need, complete deadly quests, and fight to claim faction outposts before someone else does. "
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/plains_of_pain/pterodactyl-egg-plains-of-pain.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Portal Knights",
 						"meta": {
 							"version": "PTDL_v2"
@@ -2419,12 +2430,12 @@
 						},
 						"description": "A generic C# (dotnet) egg that runs your C# project."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/pterodactyl-egg-generic-c.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/c#/egg-pterodactyl-generic-c.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "dart generic",
+						"name": "Dart generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -2468,18 +2479,18 @@
 				},
 				{
 					"egg": {
-						"name": "Generic Java",
+						"name": "Java generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
 						"description": "Creates a container that runs java."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-pterodactyl-generic-java.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/java/egg-pterodactyl-java-generic.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "luvit generic",
+						"name": "Luvit generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -2490,18 +2501,18 @@
 				},
 				{
 					"egg": {
-						"name": "node.js generic",
+						"name": "Node.js generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
 						"description": "a generic node.js egg This will clone a git repo. it defaults to master if no branch is specified. Installs the node_modules on install. If you set user_upload then I assume you know what you are doing."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/pterodactyl-egg-nodejs-generic.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/nodejs/egg-pterodactyl-nodejs-generic.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "nodemon",
+						"name": "Nodemon",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -2512,7 +2523,7 @@
 				},
 				{
 					"egg": {
-						"name": "python generic",
+						"name": "Python generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -2523,7 +2534,7 @@
 				},
 				{
 					"egg": {
-						"name": "rust generic",
+						"name": "Rust generic",
 						"meta": {
 							"version": "PTDL_v2"
 						},
@@ -3123,6 +3134,33 @@
 			]
 		},
 		{
+			"nest_type": "Monitoring",
+			"Eggs": [
+				{
+					"egg": {
+						"name": "Loki",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Prometheus but for logs. This egg is for Loki instance only! You usually need pushing agents like Promtail to put logs in this"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/loki/egg-pterodactyl-loki.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Prometheus",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The Prometheus monitoring system and time series database."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/monitoring/refs/heads/main/prometheus/egg-pterodactyl-prometheus.json",
+					"readme": ""
+				}
+			]
+		},
+		{
 			"nest_type": "Software",
 			"Eggs": [
 				{
@@ -3144,7 +3182,7 @@
 						},
 						"description": "Run VS Code on any machine anywhere and access it in the browser."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/code-server/egg-pterodactyl-code--server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/code-server/egg-pterodactyl-code-server.json",
 					"readme": ""
 				},
 				{
@@ -3166,7 +3204,7 @@
 						},
 						"description": "Folding@home is a distributed computing project aimed to help scientists develop new therapeutics for a variety of diseases by the means of simulating protein dynamics. This includes the process of protein folding and the movements of proteins, and is reliant on simulations run on volunteers' personal computers"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/foldingathome/egg-pterodactyl-folding--home.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/foldingathome/egg-pterodactyl-folding-home.json",
 					"readme": ""
 				},
 				{
@@ -3248,13 +3286,13 @@
 				},
 				{
 					"egg": {
-						"name": "owncast.online",
+						"name": "Owncast.online",
 						"meta": {
 							"version": "PTDL_v2"
 						},
 						"description": "Owncast is a self-hosted live video and web chat server for use with existing popular broadcasting software."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/owncast/egg-pterodactyl-owncast-online.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/software/refs/heads/main/owncast/egg-pterodactyl-owncastonline.json",
 					"readme": ""
 				},
 				{
