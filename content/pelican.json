@@ -3604,46 +3604,46 @@
 				},
 				{
 					"egg": {
-						"name": "Teamspeak3 Server ARM64",
+						"name": "TeamSpeak 3 (ARM64)",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-arm64-server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3/arm64/egg-teamspeak3-arm64.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Teamspeak3 Server",
+						"name": "TeamSpeak 3",
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/egg-teamspeak3-server.yaml",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3/egg-teamspeak3.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
 						"name": "TS3 Manager",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
-						"description": "The Open Source Webinterface For TeamSpeak Servers"
+						"description": "The Open Source web interface For TeamSpeak Servers"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-t-s3-manager.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3_manager/egg-ts3-manager.yaml",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Teamspeak6 Server",
+						"name": "TeamSpeak 6",
 						"meta": {
-							"version": "PLCN_v1"
+							"version": "PLCN_v3"
 						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts6/egg-teamspeak6-server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts6/egg-teamspeak6.yaml",
 					"readme": ""
 				}
 			]

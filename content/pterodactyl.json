@@ -3406,24 +3406,46 @@
 				},
 				{
 					"egg": {
-						"name": "TS3 Manager",
+						"name": "TeamSpeak 3 (ARM64)",
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "The Open Source Webinterface For TeamSpeak Servers"
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts3_manager/egg-pterodactyl-t-s3-manager.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3/arm64/egg-pterodactyl-teamspeak3-arm64.json",
 					"readme": ""
 				},
 				{
 					"egg": {
-						"name": "Teamspeak6 Server",
+						"name": "TeamSpeak 3",
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users."
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/ts6/pterodactyl-egg-teamspeak6-server.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3/egg-pterodactyl-teamspeak3.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "TS3 Manager",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "The Open Source web interface For TeamSpeak Servers"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts3_manager/egg-pterodactyl-ts3-manager.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "TeamSpeak 6",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalability up to thousands of simultaneous users."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/voice/refs/heads/main/teamspeak/ts6/egg-pterodactyl-teamspeak6.json",
 					"readme": ""
 				}
 			]
