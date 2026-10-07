@@ -2133,6 +2133,17 @@
 				},
 				{
 					"egg": {
+						"name": "Subsistence",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Subsistence dedicated server (Steam app 1362640). The dedicated server is Windows-only (UDK.exe / Unreal Engine 3), so this egg installs the Windows depot through SteamCMD and runs it under Wine + Xvfb. Allocate the game port (default 7777 UDP/TCP), a Steam query port (default 27015 UDP.) Official guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2201638184"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/subsistence/pterodactyl-egg-subsistence.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Sven Co-op",
 						"meta": {
 							"version": "PTDL_v2"
@@ -2527,7 +2538,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A Generic Python Egg for Pelican & Pterodactyl  Tested with: https://github.com/Ispira/pixel-bot"
+						"description": "A Generic Python Egg for Pterodactyl  Tested with: https://github.com/Ispira/pixel-bot"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/generic/refs/heads/main/python/egg-pterodactyl-python-generic.json",
 					"readme": ""
@@ -3374,7 +3385,7 @@
 						},
 						"description": "A simple \"empty\" egg that acts as a private SFTP storage share by utilizing Pterodactyl's built in SFTP system for servers. Sub-users can be added to the server by the owner to allow additional people to access the share. \"Starting\" the server performs no actions and it should be left off."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-pterodactyl-s-f-t-p-storage-share.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/storage/refs/heads/main/sftp_storage_share/egg-pterodactyl-sftp-storage-share.json",
 					"readme": ""
 				}
 			]
