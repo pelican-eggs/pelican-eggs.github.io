@@ -21,7 +21,7 @@
 						"meta": {
 							"version": "PLCN_v3"
 						},
-						"description": "ATLbot in ptero  https://github.com/ATLauncher/discord-bot/"
+						"description": "ATLbot in Pelican  https://github.com/ATLauncher/discord-bot/"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/atlbot/egg-a-t-l-bot.yaml",
 					"readme": ""
@@ -156,6 +156,17 @@
 						"description": "Musicbot for Discord and Teamspeak."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/sinusbot/egg-sinusbot.yaml",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "VoiceTwine",
+						"meta": {
+							"version": "PLCN_v1"
+						},
+						"description": "Dynamic voice channel manager for Discord"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/voicetwine/egg-voicetwine.json",
 					"readme": ""
 				},
 				{
@@ -702,7 +713,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378"
+						"description": "An Egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-hogwarp.json",
 					"readme": ""
@@ -735,7 +746,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A simple egg to run LeagueSandbox server in pterodactyl"
+						"description": "A simple egg to run a LeagueSandbox server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-league-sandbox.json",
 					"readme": ""
@@ -1928,7 +1939,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel"
+						"description": "A simple Docker container with Wine to run PixARK"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pix-a-r-k.json",
 					"readme": ""
@@ -2249,7 +2260,7 @@
 						},
 						"description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. Developed by Creepy Jar."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/star_rupture/pelican-egg-star-rupture.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/star_rupture/egg-star-rupture.json",
 					"readme": ""
 				},
 				{

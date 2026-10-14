@@ -160,6 +160,17 @@
 				},
 				{
 					"egg": {
+						"name": "VoiceTwine",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Dynamic voice channel manager for Discord"
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/chatbots/refs/heads/main/discord/voicetwine/egg-pterodactyl-voicetwine.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Big Brother Bot",
 						"meta": {
 							"version": "PTDL_v2"
@@ -559,7 +570,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A Pterodactyl egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378"
+						"description": "An Egg for the Hogwarts Legacy mod Hogwarp - For more info see their Nexus: https://www.nexusmods.com/hogwartslegacy/mods/1378"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/hogwarp/egg-pterodactyl-hogwarp.json",
 					"readme": ""
@@ -592,7 +603,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A simple egg to run LeagueSandbox server in pterodactyl"
+						"description": "A simple egg to run a LeagueSandbox server"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/leaguesandbox/egg-pterodactyl-league-sandbox.json",
 					"readme": ""
@@ -1774,7 +1785,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "A simple Docker container with Wine to run PixARK using Pterodactyl Panel"
+						"description": "A simple Docker container with Wine to run PixARK"
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/pixark/egg-pterodactyl-pix-a-r-k.json",
 					"readme": ""
@@ -2073,7 +2084,7 @@
 						},
 						"description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. Developed by Creepy Jar."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/star_rupture/pterodactyl-egg-star-rupture.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/star_rupture/egg-pterodactyl-star-rupture.json",
 					"readme": ""
 				},
 				{
@@ -2217,17 +2228,6 @@
 						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/egg-pterodactyl-the-isle.json",
-					"readme": ""
-				},
-				{
-					"egg": {
-						"name": "The Isle",
-						"meta": {
-							"version": "PTDL_v2"
-						},
-						"description": "The Isle is an open beta with an open-world survival game where players choose from three factions in an attempt to survive a fierce island. Hunt. Prey. Survive."
-					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/the_isle/evrima/pterodactyl-egg-the-isle.json",
 					"readme": ""
 				},
 				{
