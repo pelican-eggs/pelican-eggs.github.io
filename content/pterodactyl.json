@@ -2375,6 +2375,17 @@
 				},
 				{
 					"egg": {
+						"name": "Windrose",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Windrose is a survival adventure set in an alternative Age of Piracy. It features the classic \"build, craft, survive\" formula along with intense combat and engaging exploration on land and sea."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/windrose/pterodactyl-egg-windrose.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Wreckfest",
 						"meta": {
 							"version": "PTDL_v2"
