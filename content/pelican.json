@@ -1497,11 +1497,11 @@
 					"egg": {
 						"name": "Enshrouded",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
-						"description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg."
+						"description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-enshrouded.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-enshrouded.yaml",
 					"readme": ""
 				},
 				{
@@ -1722,6 +1722,17 @@
 						"description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! "
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-midnight-ghost-hunt.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Military Conflict: Vietnam",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Military Conflict: Vietnam dedicated server for Pelican using the native Linux 64-bit Source server."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/military_conflict_vietnam/egg-military-conflict-vietnam.yaml",
 					"readme": ""
 				},
 				{
@@ -2190,11 +2201,11 @@
 					"egg": {
 						"name": "Soulmask",
 						"meta": {
-							"version": "PTDL_v2"
+							"version": "PLCN_v3"
 						},
 						"description": "Escaping a deadly sacrificial ritual, you find an ancient mystical mask on your journey. This mask holds potent knowledge, changing the world you knew. Face the harsh challenges of nature, survive, rally followers, and build your own tribe. Explore and unveil the truths behind the enigmatic mask."
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-soulmask.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/soulmask/egg-soulmask.yaml",
 					"readme": ""
 				},
 				{
@@ -2348,7 +2359,7 @@
 						},
 						"description": "Grab your friends and set out for adventure in a world of swords, magic, and stuff. Discover tons of cool loot, uncover hidden secrets, and meet new friends and foes along the way. Make your mark and find a place to call home in this cute, multiplayer, open world RPG"
 					},
-					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-swords-n-magic-and-stuff.json",
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/swords_'n_Magic_and_Stuff/egg-swordsn-magic-and-stuff.yaml",
 					"readme": ""
 				},
 				{

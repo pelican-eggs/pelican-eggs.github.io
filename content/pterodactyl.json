@@ -1345,7 +1345,7 @@
 						"meta": {
 							"version": "PTDL_v2"
 						},
-						"description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny.  Credit to gOOvER for the help with the proton image which seems to be performing better over the wine egg."
+						"description": "Enshrouded is a game of survival, crafting, and Action RPG combat, set within a sprawling voxel-based continent. As you journey across the mountains and deserts of an open world, you are free to choose your path and shape your destiny."
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/enshrouded/egg-pterodactyl-enshrouded.json",
 					"readme": ""
@@ -1568,6 +1568,17 @@
 						"description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight! "
 					},
 					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/midnight_ghost_hunt/egg-pterodactyl-midnight-ghost-hunt.json",
+					"readme": ""
+				},
+				{
+					"egg": {
+						"name": "Military Conflict: Vietnam",
+						"meta": {
+							"version": "PTDL_v2"
+						},
+						"description": "Military Conflict: Vietnam dedicated server for Pelican using the native Linux 64-bit Source server."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-steamcmd/refs/heads/main/military_conflict_vietnam/pterodactyl-egg-military-conflict-vietnam.json",
 					"readme": ""
 				},
 				{
