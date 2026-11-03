@@ -6,6 +6,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any, Dict, Tuple
+from urllib.parse import quote
 
 import yaml
 
@@ -82,7 +83,7 @@ def is_valid_meta_version(version: str | None, panel_type: str) -> bool:
 
 
 def build_download_url(base_owner: str, repo: str, branch: str, relative_path: str) -> str:
-    relative_path = Path(relative_path).as_posix()
+    relative_path = quote(Path(relative_path).as_posix(), safe="/")
     return f"https://raw.githubusercontent.com/{base_owner}/{repo}/refs/heads/{branch}/{relative_path}"
 
 
