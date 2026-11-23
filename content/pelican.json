@@ -929,6 +929,17 @@
 				},
 				{
 					"egg": {
+						"name": "SkyrimTogether",
+						"meta": {
+							"version": "PLCN_v3"
+						},
+						"description": "Skyrim Together is a Skyrim mod that aims to bring co-op to the game. Skyrim Together Reborn is essentially a \"sequel\" to the original Skyrim Together (which some of you may know as \"Harbor Edition\", \"Nightlies\", or simply \"Old ST\")."
+					},
+					"download_url": "https://raw.githubusercontent.com/pelican-eggs/games-standalone/refs/heads/main/skyrim_together/egg-skyrim-together.json",
+					"readme": ""
+				},
+				{
+					"egg": {
 						"name": "Space Station 14",
 						"meta": {
 							"version": "PLCN_v3"
